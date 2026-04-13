@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>心情记录卡片（挑战版）</title>
+  <!-- 引入 Vue 3 CDN -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <style>
+    /* 页面整体样式 */
+    body {
+      font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+      background-color: #f8fafc;
+      margin: 0;
+      padding: 40px 20px;
+    }
+
+    /* 主容器 */
+    #app {
+      max-width: 480px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      color: #334155;
+      margin-bottom: 24px;
+    }
+
+    /* 表单区域 */
+    .form-box {
+      background-color: #ffffff;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+    }
+
+    .mood-list {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+
+    .mood-item {
+      cursor: pointer;
+      text-align: center;
+      padding: 10px 14px;
+      border-radius: 12px;
+      border: 2px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .mood-item:hover {
+      background-color: #f1f5f9;
+    }
+
+    /* 选中状态 */
+    .mood-item.active {
+      border-color: #3b82f6;
+      background-color: #eff6ff;
+    }
+
+    .mood-emoji {
+      font-size: 28px;
+      display: block;
+    }
+
+    .mood-name {
+      font-size: 14px;
+      color: #64748b;
+      margin-top: 4px;
+    }
+
+    /* 输入框 */
+    input[type="text"] {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      border: 1px solid #cbd5e1;
+      border-radius: 10px;
+      box-sizing: border-box;
+      margin-bottom: 16px;
+    }
+
+    input[type="text"]:focus {
+      outline: none;
+      border-color: #3b82f6;
+    }
+
+    /* 按钮 */
+    button {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      color: #ffffff;
+      background-color: #3b82f6;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    button:hover {
+      background-color: #2563eb;
+    }
+
+    /* 卡片列表 */
+    .card-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card {
+      padding: 16px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      /* 背景色通过 :style 动态绑定 */
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .card-emoji {
+      font-size: 28px;
+    }
+
+    .card-time {
+      font-size: 12px;
+      color: #64748b;
+      margin-left: auto;
+    }
+
+    .card-text {
+      font-size: 15px;
+      color: #475569;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <h1>心情记录卡片</h1>
+
+    <!-- 输入表单 -->
+    <div class="form-box">
+      <!-- 心情选择 -->
+      <div class="mood-list">
+        <div
+          v-for="m in moods"
+          :key="m.name"
+          class="mood-item"
+          :class="{ active: selectedMood === m.name }"
+          @click="selectedMood = m.name"
+        >
+          <span class="mood-emoji">{{ m.emoji }}</span>
+          <span class="mood-name">{{ m.name }}</span>
+        </div>
+      </div>
+
+      <!-- 描述输入 -->
+      <input
+        type="text"
+        v-model="description"
+        placeholder="写下此刻的心情..."
+      />
+
+      <!-- 生成按钮 -->
+      <button @click="addCard">生成卡片</button>
+    </div>
+
+    <!-- 卡片列表 -->
+    <div class="card-list">
+      <div
+        v-for="(card, index) in cards"
+        :key="index"
+        class="card"
+        :style="{ backgroundColor: card.color }"
+      >
+        <div class="card-header">
+          <span class="card-emoji">{{ card.emoji }}</span>
+          <span class="card-time">{{ card.time }}</span>
+        </div>
+        <div class="card-text">{{ card.text }}</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const { createApp } = Vue;
+
+    createApp({
+      data() {
+        return {
+          // 可选的心情列表，每种心情对应一个颜色
+          moods: [
+            { name: "开心", emoji: "😊", color: "#fef3c7" },
+            { name: "平静", emoji: "😌", color: "#dbeafe" },
+            { name: "难过", emoji: "😢", color: "#e2e8f0" },
+            { name: "兴奋", emoji: "🤩", color: "#fce7f3" }
+          ],
+          // 当前选中的心情
+          selectedMood: "开心",
+          // 用户输入的描述
+          description: "",
+          // 已生成的卡片数组
+          cards: []
+        };
+      },
+      methods: {
+        // 点击按钮时添加一张新卡片
+        addCard() {
+          // 找到选中心情对应的表情和颜色
+          const mood = this.moods.find(m => m.name === this.selectedMood);
+
+          // 获取当前时间字符串
+          const now = new Date();
+          const timeStr = now.toLocaleString("zh-CN");
+
+          // 将新卡片添加到数组末尾（按时间顺序排列）
+          this.cards.push({
+            emoji: mood.emoji,
+            text: this.description || "暂无描述",
+            time: timeStr,
+            color: mood.color
+          });
+
+          // 清空输入框
+          this.description = "";
+        }
+      }
+    }).mount("#app");
+  </script>
+</body>
+</html>
