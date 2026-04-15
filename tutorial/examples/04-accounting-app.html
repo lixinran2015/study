@@ -369,18 +369,22 @@
         },
         // 保存到 localStorage
         saveRecords() {
-          localStorage.setItem('accounting_records', JSON.stringify(this.records));
+          try {
+            localStorage.setItem('accounting_records', JSON.stringify(this.records));
+          } catch (e) {
+            console.warn('当前环境不支持 localStorage，数据仅在本次页面打开期间保留。', e);
+          }
         },
         // 从 localStorage 读取
         loadRecords() {
-          const data = localStorage.getItem('accounting_records');
-          if (data) {
-            try {
+          try {
+            const data = localStorage.getItem('accounting_records');
+            if (data) {
               this.records = JSON.parse(data);
-            } catch (e) {
-              console.error('读取本地数据失败', e);
-              this.records = [];
             }
+          } catch (e) {
+            console.warn('无法读取本地数据，将使用空记录开始。', e);
+            this.records = [];
           }
         }
       },
