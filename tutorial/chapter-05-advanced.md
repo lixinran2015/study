@@ -1,5 +1,7 @@
 # 第 5 章：进阶与日常技巧
 
+> [← 上一章：第 4 章](./chapter-04-accounting-app.md) | [返回目录](./README.md) | [下一章：附录 →](./appendix-troubleshooting.md)
+
 恭喜你来到最后一章！
 
 经过前面四章的练习，你已经学会了用 Claude Code 写网页、改代码、做脚本。这一章我们要建立一个**日常使用的工具箱**，让你能处理更复杂的场景，并且知道接下来该往哪里学。
@@ -277,3 +279,7 @@ Python 基础语法 → 爬虫 / 自动化脚本 → 数据分析 / Web 后端
 有 Claude Code 在身边，你永远不会孤军奋战。大胆去写、去试、去犯错吧。下一款让你骄傲的作品，可能就在下一次对话之后。
 
 加油！
+
+---
+
+> [← 上一章：第 4 章](./chapter-04-accounting-app.md) | [返回目录](./README.md) | [下一章：附录 →](./appendix-troubleshooting.md)

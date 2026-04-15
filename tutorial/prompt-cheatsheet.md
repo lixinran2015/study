@@ -1,5 +1,7 @@
 # Claude Code Prompt 速查表
 
+> [← 上一章：附录](./appendix-troubleshooting.md) | [返回目录](./README.md)
+
 这是一份可以直接复制使用的 Prompt 参考。遇到对应场景时，复制粘贴到 Claude Code 的输入框即可。
 
 ---
@@ -148,3 +150,7 @@
 ---
 
 💡 小提示：Prompt 不是咒语，关键是把事情说清楚。描述越具体，AI 的回复就越准确。
+
+---
+
+> [← 上一章：附录](./appendix-troubleshooting.md) | [返回目录](./README.md)

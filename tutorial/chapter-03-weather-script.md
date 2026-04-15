@@ -1,5 +1,7 @@
 # 第 3 章：走出浏览器 — 天气查询脚本
 
+> [← 上一章：第 2 章](./chapter-02-modify-code.md) | [返回目录](./README.md) | [下一章：第 4 章 →](./chapter-04-accounting-app.md)
+
 ## 学习目标
 
 这是第一次写“脚本”程序。通过本章，你将：
@@ -146,8 +148,4 @@
 
 ---
 
-## 下一步
-
-恭喜你完成了第一个真正的脚本程序！接下来，我们要把学到的知识综合起来，做一个更完整的应用：
-
-→ [第 4 章：综合实战 — 记账小应用](./chapter-04-accounting-app.md)
+> [← 上一章：第 2 章](./chapter-02-modify-code.md) | [返回目录](./README.md) | [下一章：第 4 章 →](./chapter-04-accounting-app.md)

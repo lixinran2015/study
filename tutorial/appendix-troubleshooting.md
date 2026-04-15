@@ -1,5 +1,7 @@
 # 附录：常见踩坑指南
 
+> [← 上一章：第 5 章](./chapter-05-advanced.md) | [返回目录](./README.md) | [下一章：Prompt 速查表 →](./prompt-cheatsheet.md)
+
 学习编程的路上，报错和卡住是常态。这个附录汇总了本教程读者最常遇到的问题，遇到问题可以先来这里查一查。
 
 ---
@@ -142,3 +144,7 @@ git checkout HEAD~1   # 回到上一个版本
 ```
 
 💡 小提示：初学者不需要深入学 Git，但掌握 "撤销修改" 这个保命技能非常有用。
+
+---
+
+> [← 上一章：第 5 章](./chapter-05-advanced.md) | [返回目录](./README.md) | [下一章：Prompt 速查表 →](./prompt-cheatsheet.md)
