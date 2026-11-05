@@ -2,7 +2,9 @@
 
 > 从宇宙开辟写到万邦来朝：世界观 → 物产 → 上古帝王 → 禅让与征伐 → 太平祥瑞。
 
-## 原文（拼音一行在上、原文一行在下，逐句对读）
+## 原文（拼音一行在上、原文一行在下；🎬 行为镜头分段标记，按段背诵）
+
+> 🎬 **镜头 1 · 混沌初开**（第 1–4 句：天地日月）
 
 tiān dì xuán huáng，yǔ zhòu hóng huāng  
 天地玄黄，宇宙洪荒。
@@ -15,6 +17,8 @@ hán lái shǔ wǎng，qiū shōu dōng cáng
 
 rùn yú chéng suì，lǜ lǚ tiáo yáng  
 闰余成岁，律吕调阳。
+
+> 🎬 **镜头 2 · 四时物产**（第 5–9 句：云雨霜雪、金玉果蔬）
 
 yún téng zhì yǔ，lù jié wéi shuāng  
 云腾致雨，露结为霜。
@@ -31,17 +35,23 @@ guǒ zhēn lǐ nài，cài zhòng jiè jiāng
 hǎi xián hé dàn，lín qián yǔ xiáng  
 海咸河淡，鳞潜羽翔。
 
+> 🎬 **镜头 3 · 文明开端**（第 10–11 句：上古帝王、文字衣裳）
+
 lóng shī huǒ dì，niǎo guān rén huáng  
 龙师火帝，鸟官人皇。
 
 shǐ zhì wén zì，nǎi fú yī shang  
 始制文字，乃服衣裳。
 
+> 🎬 **镜头 4 · 政权交替**（第 12–13 句：先禅让、后征伐）
+
 tuī wèi ràng guó，yǒu yú táo táng  
 推位让国，有虞陶唐。
 
 diào mín fá zuì，zhōu fā yīn tāng  
 吊民伐罪，周发殷汤。
+
+> 🎬 **镜头 5 · 垂拱而治**（第 14–16 句：坐朝问道、万邦来朝）
 
 zuò cháo wèn dào，chuí gǒng píng zhāng  
 坐朝问道，垂拱平章。
@@ -51,6 +61,8 @@ zuò cháo wèn dào，chuí gǒng píng zhāng
 
 xiá ěr yī tǐ，shuài bīn guī wáng  
 遐迩一体，率宾归王。
+
+> 🎬 **镜头 6 · 祥瑞收尾**（第 17–18 句：凤鸣竹间、白驹食场）
 
 míng fèng zài zhú，bái jū shí cháng  
 鸣凤在竹，白驹食场。
