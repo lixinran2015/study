@@ -2,15 +2,21 @@
 
 > 三组"不公平"：文章盖世的孔子被困断粮，武略超群的在渭水钓鱼；好人短命、大盗长寿；圣明的尧有不肖子，顽呆的瞽叟出大孝子——圣贤也拗不过"时"。
 
-## 原文
+## 原文（拼音一行在上、原文一行在下）
 
+gài wén：rén shēng zài shì，fù guì bù néng yín，pín jiàn bù néng yí  
 盖闻：人生在世，富贵不能淫，贫贱不能移。
 
+wén zhāng gài shì，kǒng zǐ è yú chén bāng；wǔ lüè chāo qún，tài gōng diào yú wèi shuǐ  
 文章盖世，孔子厄于陈邦；武略超群，太公钓于渭水。
 
+yán yuān mìng duǎn，shí fēi xiōng è zhī tú；dào zhí nián cháng，qǐ shì shàn liáng zhī bèi  
 颜渊命短，实非凶恶之徒；盗跖年长，岂是善良之辈。
 
+yáo dì míng shèng，què shēng bù xiào zhī ér；gǔ sǒu wán dāi，fǎn shēng dà xiào zhī zǐ  
 尧帝明圣，却生不肖之儿；瞽叟顽呆，反生大孝之子。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 逐句白话
 

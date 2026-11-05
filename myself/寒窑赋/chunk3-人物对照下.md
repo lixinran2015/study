@@ -2,17 +2,27 @@
 
 > 微末之臣封侯拜相，盖世英雄乌江自刎——张良、萧何、晏子、孔明起于草莱，楚霸、李广、冯唐输在"时"，韩信的一生弧线（饿→贵→死）把"力与命"讲到了底。
 
-## 原文
+## 原文（拼音一行在上、原文一行在下）
 
+zhāng liáng yuán shì bù yī，xiāo hé chēng wèi xiàn lì  
 张良原是布衣，萧何称谓县吏。
 
+yàn zǐ shēn wú wǔ chǐ，fēng wéi qí guó zǎi xiàng；kǒng míng jū cǎo lú，néng zuò shǔ hàn jūn shī  
 晏子身无五尺，封为齐国宰相；孔明居草庐，能作蜀汉军师。
 
+chǔ bà suī xióng，bài yú wū jiāng zì wěn；hàn wáng suī ruò，jìng yǒu wàn lǐ jiāng shān  
 楚霸虽雄，败于乌江自刎；汉王虽弱，竟有万里江山。
 
+lǐ guǎng yǒu shè hǔ zhī wēi，dào lǎo wú fēng；féng táng yǒu chéng lóng zhī cái，yī shēng bù yù  
 李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。
 
-韩信未遇之时，无一日三餐；及至遇行，腰悬三尺玉印，一旦时衰，死于阴人之手。
+hán xìn wèi yù zhī shí，wú yī rì sān cān；jí zhì yù xíng，yāo xuán sān chǐ yù yìn  
+韩信未遇之时，无一日三餐；及至遇行，腰悬三尺玉印。
+
+yī dàn shí shuāi，sǐ yú yīn rén zhī shǒu  
+一旦时衰，死于阴人之手。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 逐句白话
 

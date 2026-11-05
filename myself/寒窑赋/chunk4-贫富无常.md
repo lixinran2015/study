@@ -2,23 +2,33 @@
 
 > 六组"错位"（贫富、才遇、贵贱、美丑、龙鳖、君小人）之后，笔锋一转：衣服破没关系，守住仪礼；时运不济没关系，守住心——"初贫君子"与"乍富小人"的一锤定音。
 
-## 原文
+## 原文（拼音一行在上、原文一行在下）
 
+yǒu xiān pín ér hòu fù，yǒu lǎo zhuàng ér shǎo shuāi  
 有先贫而后富，有老壮而少衰。
 
+mǎn fù wén zhāng，bái fà jìng rán bù zhòng；cái shū xué qiǎn，shào nián jí dì dēng kē  
 满腹文章，白发竟然不中；才疏学浅，少年及第登科。
 
+shēn yuàn gōng é，yùn tuì fǎn wéi jì qiè；fēng liú jì nǚ，shí lái pèi zuò fū rén  
 深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。
 
+qīng chūn měi nǚ，què zhāo yú chǔn zhī fū；jùn xiù láng jūn，fǎn pèi cū chǒu zhī fù  
 青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。
 
+jiāo lóng wèi yù，qián shuǐ yú yú biē zhī jiān；jūn zǐ shī shí，gǒng shǒu yú xiǎo rén zhī xià  
 蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。
 
+yī fú suī pò，cháng cún yí lǐ zhī róng；miàn dài yōu chóu，měi bào huái ān zhī liàng  
 衣服虽破，常存仪礼之容；面带忧愁，每抱怀安之量。
 
+shí zāo bù yù，zhǐ yí ān pín shǒu fèn；xīn ruò bù qī，bì rán yáng méi tǔ qì  
 时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。
 
+chū pín jūn zǐ，tiān rán gǔ gé shēng chéng；zhà fù xiǎo rén，bù tuō pín hán jī tǐ  
 初贫君子，天然骨格生成；乍富小人，不脱贫寒肌体。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 逐句白话
 
