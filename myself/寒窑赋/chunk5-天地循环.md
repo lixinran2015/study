@@ -4,22 +4,32 @@
 
 ## 原文（拼音一行在上、原文一行在下）
 
-tiān bù dé shí，rì yuè wú guāng；dì bù dé shí，cǎo mù bù shēng  
-天不得时，日月无光；地不得时，草木不生。
+```text
+tiān  bù    dé    shí   ，    rì    yuè   wú    guāng ；    dì    bù    dé    shí   ，    cǎo   mù    bù    shēng 。
+天    不    得    时    ，    日    月    无    光    ；    地    不    得    时    ，    草    木    不    生    。
+```
 
-shuǐ bù dé shí，fēng làng bù píng；rén bù dé shí，lì yùn bù tōng  
-水不得时，风浪不平；人不得时，利运不通。
+```text
+shuǐ bù   dé   shí  ，   fēng làng bù   píng ；   rén  bù   dé   shí  ，   lì   yùn  bù   tōng 。
+水   不   得   时   ，   风   浪   不   平   ；   人   不   得   时   ，   利   运   不   通   。
+```
 
-zhù fú zhù lù，mìng lǐ yǐ ān pái dìng，fù guì shuí bù yù  
-注福注禄，命里已安排定，富贵谁不欲？
+```text
+zhù  fú   zhù  lù   ，   mìng lǐ   yǐ   ān   pái  dìng ，   fù   guì  shuí bù   yù   ？
+注   福   注   禄   ，   命   里   已   安   排   定   ，   富   贵   谁   不   欲   ？
+```
 
-rén ruò bù yī gēn jī bā zì，qǐ néng wéi qīng wéi xiàng  
-人若不依根基八字，岂能为卿为相？
+```text
+rén   ruò   bù    yī    gēn   jī    bā    zì    ，    qǐ    néng  wéi   qīng  wéi   xiàng ？
+人    若    不    依    根    基    八    字    ，    岂    能    为    卿    为    相    ？
+```
 
-rén shēng zài shì，fù guì bù kě jìn yòng，pín jiàn bù kě zì qī，tīng yóu tiān dì xún huán，zhōu ér fù shǐ yān  
-人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。
+```text
+rén   shēng zài   shì   ，    fù    guì   bù    kě    jìn   yòng  ，    pín   jiàn  bù    kě    zì    qī    ，    tīng  yóu   tiān  dì    xún   huán  ，    zhōu  ér    fù    shǐ   yān   。
+人    生    在    世    ，    富    贵    不    可    尽    用    ，    贫    贱    不    可    自    欺    ，    听    由    天    地    循    环    ，    周    而    复    始    焉    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 逐句白话
 

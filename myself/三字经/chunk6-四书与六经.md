@@ -6,107 +6,167 @@
 
 > 🎬 **镜头 1 · 四书**（第 84–93 行：论语、孟子、中庸、大学、孝经）
 
-lùn yǔ zhě，èr shí piān  
-论语者，二十篇。
+```text
+lùn  yǔ   zhě  ，   èr   shí  piān 。
+论   语   者   ，   二   十   篇   。
+```
 
-qún dì zǐ，jì shàn yán  
-群弟子，记善言。
+```text
+qún  dì   zǐ   ，   jì   shàn yán  。
+群   弟   子   ，   记   善   言   。
+```
 
-mèng zǐ zhě，qī piān zhǐ  
-孟子者，七篇止。
+```text
+mèng zǐ   zhě  ，   qī   piān zhǐ  。
+孟   子   者   ，   七   篇   止   。
+```
 
-jiǎng dào dé，shuō rén yì  
-讲道德，说仁义。
+```text
+jiǎng dào   dé    ，    shuō  rén   yì    。
+讲    道    德    ，    说    仁    义    。
+```
 
-zuò zhōng yōng，zǐ sī bǐ  
-作中庸，子思笔。
+```text
+zuò   zhōng yōng  ，    zǐ    sī    bǐ    。
+作    中    庸    ，    子    思    笔    。
+```
 
-zhōng bù piān，yōng bù yì  
-中不偏，庸不易。
+```text
+zhōng bù    piān  ，    yōng  bù    yì    。
+中    不    偏    ，    庸    不    易    。
+```
 
-zuò dà xué，nǎi zēng zǐ  
-作大学，乃曾子。
+```text
+zuò  dà   xué  ，   nǎi  zēng zǐ   。
+作   大   学   ，   乃   曾   子   。
+```
 
-zì xiū qí，zhì píng zhì  
-自修齐，至平治。
+```text
+zì   xiū  qí   ，   zhì  píng zhì  。
+自   修   齐   ，   至   平   治   。
+```
 
-xiào jīng tōng，sì shū shú  
-孝经通，四书熟。
+```text
+xiào jīng tōng ，   sì   shū  shú  。
+孝   经   通   ，   四   书   熟   。
+```
 
-rú liù jīng，shǐ kě dú  
-如六经，始可读。
+```text
+rú   liù  jīng ，   shǐ  kě   dú   。
+如   六   经   ，   始   可   读   。
+```
 
 > 🎬 **镜头 2 · 六经总目**（第 94–95 行：诗书易礼春秋）
 
-shī shū yì，lǐ chūn qiū  
-诗书易，礼春秋。
+```text
+shī  shū  yì   ，   lǐ   chūn qiū  。
+诗   书   易   ，   礼   春   秋   。
+```
 
-hào liù jīng，dāng jiǎng qiú  
-号六经，当讲求。
+```text
+hào   liù   jīng  ，    dāng  jiǎng qiú   。
+号    六    经    ，    当    讲    求    。
+```
 
 > 🎬 **镜头 3 · 三易与尚书**（第 96–99 行：连山归藏周易、典谟训诰誓命）
 
-yǒu lián shān，yǒu guī cáng  
-有连山，有归藏。
+```text
+yǒu  lián shān ，   yǒu  guī  cáng 。
+有   连   山   ，   有   归   藏   。
+```
 
-yǒu zhōu yì，sān yì xiáng  
-有周易，三易详。
+```text
+yǒu   zhōu  yì    ，    sān   yì    xiáng 。
+有    周    易    ，    三    易    详    。
+```
 
-yǒu diǎn mó，yǒu xùn gào  
-有典谟，有训诰。
+```text
+yǒu  diǎn mó   ，   yǒu  xùn  gào  。
+有   典   谟   ，   有   训   诰   。
+```
 
-yǒu shì mìng，shū zhī ào  
-有誓命，书之奥。
+```text
+yǒu  shì  mìng ，   shū  zhī  ào   。
+有   誓   命   ，   书   之   奥   。
+```
 
 > 🎬 **镜头 4 · 三礼**（第 100–103 行：周礼六官、大小戴礼记）
 
-wǒ zhōu gōng，zuò zhōu lǐ  
-我周公，作周礼。
+```text
+wǒ   zhōu gōng ，   zuò  zhōu lǐ   。
+我   周   公   ，   作   周   礼   。
+```
 
-zhù liù guān，cún zhì tǐ  
-著六官，存治体。
+```text
+zhù  liù  guān ，   cún  zhì  tǐ   。
+著   六   官   ，   存   治   体   。
+```
 
-dà xiǎo dài，zhù lǐ jì  
-大小戴，注礼记。
+```text
+dà   xiǎo dài  ，   zhù  lǐ   jì   。
+大   小   戴   ，   注   礼   记   。
+```
 
-shù shèng yán，lǐ yuè bèi  
-述圣言，礼乐备。
+```text
+shù   shèng yán   ，    lǐ    yuè   bèi   。
+述    圣    言    ，    礼    乐    备    。
+```
 
 > 🎬 **镜头 5 · 诗经与春秋**（第 104–107 行：风雅颂、褒贬善恶）
 
-yuē guó fēng，yuē yǎ sòng  
-曰国风，曰雅颂。
+```text
+yuē  guó  fēng ，   yuē  yǎ   sòng 。
+曰   国   风   ，   曰   雅   颂   。
+```
 
-hào sì shī，dāng fěng yǒng  
-号四诗，当讽咏。
+```text
+hào  sì   shī  ，   dāng fěng yǒng 。
+号   四   诗   ，   当   讽   咏   。
+```
 
-shī jì wáng，chūn qiū zuò  
-诗既亡，春秋作。
+```text
+shī  jì   wáng ，   chūn qiū  zuò  。
+诗   既   亡   ，   春   秋   作   。
+```
 
-yù bāo biǎn，bié shàn è  
-寓褒贬，别善恶。
+```text
+yù   bāo  biǎn ，   bié  shàn è    。
+寓   褒   贬   ，   别   善   恶   。
+```
 
 > 🎬 **镜头 6 · 三传与诸子**（第 108–113 行：公羊左氏谷梁、荀扬文中子老庄）
 
-sān zhuàn zhě，yǒu gōng yáng  
-三传者，有公羊。
+```text
+sān   zhuàn zhě   ，    yǒu   gōng  yáng  。
+三    传    者    ，    有    公    羊    。
+```
 
-yǒu zuǒ shì，yǒu gǔ liáng  
-有左氏，有谷梁。
+```text
+yǒu   zuǒ   shì   ，    yǒu   gǔ    liáng 。
+有    左    氏    ，    有    谷    梁    。
+```
 
-jīng jì míng，fāng dú zǐ  
-经既明，方读子。
+```text
+jīng jì   míng ，   fāng dú   zǐ   。
+经   既   明   ，   方   读   子   。
+```
 
-cuō qí yào，jì qí shì  
-撮其要，记其事。
+```text
+cuō qí  yào ，  jì  qí  shì 。
+撮  其  要  ，  记  其  事  。
+```
 
-wǔ zǐ zhě，yǒu xún yáng  
-五子者，有荀扬。
+```text
+wǔ   zǐ   zhě  ，   yǒu  xún  yáng 。
+五   子   者   ，   有   荀   扬   。
+```
 
-wén zhōng zǐ，jí lǎo zhuāng  
-文中子，及老庄。
+```text
+wén    zhōng  zǐ     ，     jí     lǎo    zhuāng 。
+文     中     子     ，     及     老     庄     。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

@@ -4,31 +4,47 @@
 
 ## 原文（拼音一行在上、原文一行在下）
 
-yǒu xiān pín ér hòu fù，yǒu lǎo zhuàng ér shǎo shuāi  
-有先贫而后富，有老壮而少衰。
+```text
+yǒu    xiān   pín    ér     hòu    fù     ，     yǒu    lǎo    zhuàng ér     shǎo   shuāi  。
+有     先     贫     而     后     富     ，     有     老     壮     而     少     衰     。
+```
 
-mǎn fù wén zhāng，bái fà jìng rán bù zhòng；cái shū xué qiǎn，shào nián jí dì dēng kē  
-满腹文章，白发竟然不中；才疏学浅，少年及第登科。
+```text
+mǎn   fù    wén   zhāng ，    bái   fà    jìng  rán   bù    zhòng ；    cái   shū   xué   qiǎn  ，    shào  nián  jí    dì    dēng  kē    。
+满    腹    文    章    ，    白    发    竟    然    不    中    ；    才    疏    学    浅    ，    少    年    及    第    登    科    。
+```
 
-shēn yuàn gōng é，yùn tuì fǎn wéi jì qiè；fēng liú jì nǚ，shí lái pèi zuò fū rén  
-深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。
+```text
+shēn yuàn gōng é    ，   yùn  tuì  fǎn  wéi  jì   qiè  ；   fēng liú  jì   nǚ   ，   shí  lái  pèi  zuò  fū   rén  。
+深   院   宫   娥   ，   运   退   反   为   妓   妾   ；   风   流   妓   女   ，   时   来   配   作   夫   人   。
+```
 
-qīng chūn měi nǚ，què zhāo yú chǔn zhī fū；jùn xiù láng jūn，fǎn pèi cū chǒu zhī fù  
-青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。
+```text
+qīng chūn měi  nǚ   ，   què  zhāo yú   chǔn zhī  fū   ；   jùn  xiù  láng jūn  ，   fǎn  pèi  cū   chǒu zhī  fù   。
+青   春   美   女   ，   却   招   愚   蠢   之   夫   ；   俊   秀   郎   君   ，   反   配   粗   丑   之   妇   。
+```
 
-jiāo lóng wèi yù，qián shuǐ yú yú biē zhī jiān；jūn zǐ shī shí，gǒng shǒu yú xiǎo rén zhī xià  
-蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。
+```text
+jiāo lóng wèi  yù   ，   qián shuǐ yú   yú   biē  zhī  jiān ；   jūn  zǐ   shī  shí  ，   gǒng shǒu yú   xiǎo rén  zhī  xià  。
+蛟   龙   未   遇   ，   潜   水   于   鱼   鳖   之   间   ；   君   子   失   时   ，   拱   手   于   小   人   之   下   。
+```
 
-yī fú suī pò，cháng cún yí lǐ zhī róng；miàn dài yōu chóu，měi bào huái ān zhī liàng  
-衣服虽破，常存仪礼之容；面带忧愁，每抱怀安之量。
+```text
+yī    fú    suī   pò    ，    cháng cún   yí    lǐ    zhī   róng  ；    miàn  dài   yōu   chóu  ，    měi   bào   huái  ān    zhī   liàng 。
+衣    服    虽    破    ，    常    存    仪    礼    之    容    ；    面    带    忧    愁    ，    每    抱    怀    安    之    量    。
+```
 
-shí zāo bù yù，zhǐ yí ān pín shǒu fèn；xīn ruò bù qī，bì rán yáng méi tǔ qì  
-时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。
+```text
+shí  zāo  bù   yù   ，   zhǐ  yí   ān   pín  shǒu fèn  ；   xīn  ruò  bù   qī   ，   bì   rán  yáng méi  tǔ   qì   。
+时   遭   不   遇   ，   只   宜   安   贫   守   份   ；   心   若   不   欺   ，   必   然   扬   眉   吐   气   。
+```
 
-chū pín jūn zǐ，tiān rán gǔ gé shēng chéng；zhà fù xiǎo rén，bù tuō pín hán jī tǐ  
-初贫君子，天然骨格生成；乍富小人，不脱贫寒肌体。
+```text
+chū   pín   jūn   zǐ    ，    tiān  rán   gǔ    gé    shēng chéng ；    zhà   fù    xiǎo  rén   ，    bù    tuō   pín   hán   jī    tǐ    。
+初    贫    君    子    ，    天    然    骨    格    生    成    ；    乍    富    小    人    ，    不    脱    贫    寒    肌    体    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 逐句白话
 

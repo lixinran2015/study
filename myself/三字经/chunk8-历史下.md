@@ -6,95 +6,147 @@
 
 > 🎬 **镜头 1 · 三国两晋**（第 138–139 行：争汉鼎、迄两晋）
 
-wèi shǔ wú，zhēng hàn dǐng  
-魏蜀吴，争汉鼎。
+```text
+wèi   shǔ   wú    ，    zhēng hàn   dǐng  。
+魏    蜀    吴    ，    争    汉    鼎    。
+```
 
-hào sān guó，qì liǎng jìn  
-号三国，迄两晋。
+```text
+hào   sān   guó   ，    qì    liǎng jìn   。
+号    三    国    ，    迄    两    晋    。
+```
 
 > 🎬 **镜头 2 · 南北朝**（第 140–143 行：南朝四代、北朝周齐）
 
-sòng qí jì，liáng chén chéng  
-宋齐继，梁陈承。
+```text
+sòng  qí    jì    ，    liáng chén  chéng 。
+宋    齐    继    ，    梁    陈    承    。
+```
 
-wéi nán cháo，dū jīn líng  
-为南朝，都金陵。
+```text
+wéi  nán  cháo ，   dū   jīn  líng 。
+为   南   朝   ，   都   金   陵   。
+```
 
-běi yuán wèi，fēn dōng xī  
-北元魏，分东西。
+```text
+běi  yuán wèi  ，   fēn  dōng xī   。
+北   元   魏   ，   分   东   西   。
+```
 
-yǔ wén zhōu，yǔ gāo qí  
-宇文周，与高齐。
+```text
+yǔ   wén  zhōu ，   yǔ   gāo  qí   。
+宇   文   周   ，   与   高   齐   。
+```
 
 > 🎬 **镜头 3 · 隋唐**（第 144–149 行：隋统一、唐三百载）
 
-dài zhì suí，yī tǔ yǔ  
-迨至隋，一土宇。
+```text
+dài zhì suí ，  yī  tǔ  yǔ  。
+迨  至  隋  ，  一  土  宇  。
+```
 
-bù zài chuán，shī tǒng xù  
-不再传，失统绪。
+```text
+bù    zài   chuán ，    shī   tǒng  xù    。
+不    再    传    ，    失    统    绪    。
+```
 
-táng gāo zǔ，qǐ yì shī  
-唐高祖，起义师。
+```text
+táng gāo  zǔ   ，   qǐ   yì   shī  。
+唐   高   祖   ，   起   义   师   。
+```
 
-chú suí luàn，chuàng guó jī  
-除隋乱，创国基。
+```text
+chú    suí    luàn   ，     chuàng guó    jī     。
+除     隋     乱     ，     创     国     基     。
+```
 
-èr shí chuán，sān bǎi zǎi  
-二十传，三百载。
+```text
+èr    shí   chuán ，    sān   bǎi   zǎi   。
+二    十    传    ，    三    百    载    。
+```
 
-liáng miè zhī，guó nǎi gǎi  
-梁灭之，国乃改。
+```text
+liáng miè   zhī   ，    guó   nǎi   gǎi   。
+梁    灭    之    ，    国    乃    改    。
+```
 
 > 🎬 **镜头 4 · 五代**（第 150–151 行：梁唐晋汉周）
 
-liáng táng jìn，jí hàn zhōu  
-梁唐晋，及汉周。
+```text
+liáng táng  jìn   ，    jí    hàn   zhōu  。
+梁    唐    晋    ，    及    汉    周    。
+```
 
-chēng wǔ dài，jiē yǒu yóu  
-称五代，皆有由。
+```text
+chēng wǔ    dài   ，    jiē   yǒu   yóu   。
+称    五    代    ，    皆    有    由    。
+```
 
 > 🎬 **镜头 5 · 宋辽金元**（第 152–157 行：炎宋、十八传、元九十载）
 
-yán sòng xīng，shòu zhōu shàn  
-炎宋兴，受周禅。
+```text
+yán  sòng xīng ，   shòu zhōu shàn 。
+炎   宋   兴   ，   受   周   禅   。
+```
 
-shí bā chuán，nán běi hùn  
-十八传，南北混。
+```text
+shí   bā    chuán ，    nán   běi   hùn   。
+十    八    传    ，    南    北    混    。
+```
 
-liáo yǔ jīn，jiē chēng dì  
-辽与金，皆称帝。
+```text
+liáo  yǔ    jīn   ，    jiē   chēng dì    。
+辽    与    金    ，    皆    称    帝    。
+```
 
-yuán miè jīn，jué sòng shì  
-元灭金，绝宋世。
+```text
+yuán miè  jīn  ，   jué  sòng shì  。
+元   灭   金   ，   绝   宋   世   。
+```
 
-yú tú guǎng，chāo qián dài  
-舆图广，超前代。
+```text
+yú    tú    guǎng ，    chāo  qián  dài   。
+舆    图    广    ，    超    前    代    。
+```
 
-jiǔ shí nián，guó zuò fèi  
-九十年，国祚废。
+```text
+jiǔ  shí  nián ，   guó  zuò  fèi  。
+九   十   年   ，   国   祚   废   。
+```
 
 > 🎬 **镜头 6 · 大明**（第 158–163 行：洪武、燕京、崇祯、神器焚）
 
-tài zǔ xīng，guó dà míng  
-太祖兴，国大明。
+```text
+tài  zǔ   xīng ，   guó  dà   míng 。
+太   祖   兴   ，   国   大   明   。
+```
 
-hào hóng wǔ，dū jīn líng  
-号洪武，都金陵。
+```text
+hào  hóng wǔ   ，   dū   jīn  líng 。
+号   洪   武   ，   都   金   陵   。
+```
 
-dài chéng zǔ，qiān yān jīng  
-迨成祖，迁燕京。
+```text
+dài   chéng zǔ    ，    qiān  yān   jīng  。
+迨    成    祖    ，    迁    燕    京    。
+```
 
-shí liù shì，zhì chóng zhēn  
-十六世，至崇祯。
+```text
+shí   liù   shì   ，    zhì   chóng zhēn  。
+十    六    世    ，    至    崇    祯    。
+```
 
-quán yān sì，kòu rú lín  
-权阉肆，寇如林。
+```text
+quán yān  sì   ，   kòu  rú   lín  。
+权   阉   肆   ，   寇   如   林   。
+```
 
-lǐ chuǎng chū，shén qì fén  
-李闯出，神器焚。
+```text
+lǐ     chuǎng chū    ，     shén   qì     fén    。
+李     闯     出     ，     神     器     焚     。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

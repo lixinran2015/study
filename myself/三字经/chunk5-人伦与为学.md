@@ -6,50 +6,76 @@
 
 > 🎬 **镜头 1 · 九族**（第 71–74 行：高祖至玄孙的竖线）
 
-gāo zēng zǔ，fù ér shēn  
-高曾祖，父而身。
+```text
+gāo  zēng zǔ   ，   fù   ér   shēn 。
+高   曾   祖   ，   父   而   身   。
+```
 
-shēn ér zǐ，zǐ ér sūn  
-身而子，子而孙。
+```text
+shēn ér   zǐ   ，   zǐ   ér   sūn  。
+身   而   子   ，   子   而   孙   。
+```
 
-zì zǐ sūn，zhì xuán zēng  
-自子孙，至玄曾。
+```text
+zì   zǐ   sūn  ，   zhì  xuán zēng 。
+自   子   孙   ，   至   玄   曾   。
+```
 
-nǎi jiǔ zú，rén zhī lún  
-乃九族，人之伦。
+```text
+nǎi jiǔ zú  ，  rén zhī lún 。
+乃  九  族  ，  人  之  伦  。
+```
 
 > 🎬 **镜头 2 · 十义**（第 75–79 行：五对关系）
 
-fù zǐ ēn，fū fù cóng  
-父子恩，夫妇从。
+```text
+fù   zǐ   ēn   ，   fū   fù   cóng 。
+父   子   恩   ，   夫   妇   从   。
+```
 
-xiōng zé yǒu，dì zé gōng  
-兄则友，弟则恭。
+```text
+xiōng zé    yǒu   ，    dì    zé    gōng  。
+兄    则    友    ，    弟    则    恭    。
+```
 
-zhǎng yòu xù，yǒu yǔ péng  
-长幼序，友与朋。
+```text
+zhǎng yòu   xù    ，    yǒu   yǔ    péng  。
+长    幼    序    ，    友    与    朋    。
+```
 
-jūn zé jìng，chén zé zhōng  
-君则敬，臣则忠。
+```text
+jūn   zé    jìng  ，    chén  zé    zhōng 。
+君    则    敬    ，    臣    则    忠    。
+```
 
-cǐ shí yì，rén suǒ tóng  
-此十义，人所同。
+```text
+cǐ   shí  yì   ，   rén  suǒ  tóng 。
+此   十   义   ，   人   所   同   。
+```
 
 > 🎬 **镜头 3 · 为学之门**（第 80–83 行：训蒙、句读、小学四书）
 
-fán xùn méng，xū jiǎng jiū  
-凡训蒙，须讲究。
+```text
+fán   xùn   méng  ，    xū    jiǎng jiū   。
+凡    训    蒙    ，    须    讲    究    。
+```
 
-xiáng xùn gǔ，míng jù dòu  
-详训诂，明句读。
+```text
+xiáng xùn   gǔ    ，    míng  jù    dòu   。
+详    训    诂    ，    明    句    读    。
+```
 
-wéi xué zhě，bì yǒu chū  
-为学者，必有初。
+```text
+wéi xué zhě ，  bì  yǒu chū 。
+为  学  者  ，  必  有  初  。
+```
 
-xiǎo xué zhōng，zhì sì shū  
-小学终，至四书。
+```text
+xiǎo  xué   zhōng ，    zhì   sì    shū   。
+小    学    终    ，    至    四    书    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

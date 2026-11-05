@@ -6,81 +6,121 @@
 
 > 🎬 **镜头 1 · 孝之始**（第 1–2 句：身体发肤、不敢毁伤）
 
-gài cǐ shēn fà，sì dà wǔ cháng  
-盖此身发，四大五常。
+```text
+gài   cǐ    shēn  fà    ，    sì    dà    wǔ    cháng 。
+盖    此    身    发    ，    四    大    五    常    。
+```
 
-gōng wéi jū yǎng，qǐ gǎn huǐ shāng  
-恭惟鞠养，岂敢毁伤。
+```text
+gōng  wéi   jū    yǎng  ，    qǐ    gǎn   huǐ   shāng 。
+恭    惟    鞠    养    ，    岂    敢    毁    伤    。
+```
 
 > 🎬 **镜头 2 · 立品**（第 3–6 句：改错、莫谈人短、守信、器量）
 
-nǚ mù zhēn jié，nán xiào cái liáng  
-女慕贞洁，男效才良。
+```text
+nǚ    mù    zhēn  jié   ，    nán   xiào  cái   liáng 。
+女    慕    贞    洁    ，    男    效    才    良    。
+```
 
-zhī guò bì gǎi，dé néng mò wàng  
-知过必改，得能莫忘。
+```text
+zhī  guò  bì   gǎi  ，   dé   néng mò   wàng 。
+知   过   必   改   ，   得   能   莫   忘   。
+```
 
-wǎng tán bǐ duǎn，mǐ shì jǐ cháng  
-罔谈彼短，靡恃己长。
+```text
+wǎng  tán   bǐ    duǎn  ，    mǐ    shì   jǐ    cháng 。
+罔    谈    彼    短    ，    靡    恃    己    长    。
+```
 
-xìn shǐ kě fù，qì yù nán liáng  
-信使可覆，器欲难量。
+```text
+xìn   shǐ   kě    fù    ，    qì    yù    nán   liáng 。
+信    使    可    覆    ，    器    欲    难    量    。
+```
 
 > 🎬 **镜头 3 · 慎染**（第 7 句：墨子叹染丝）
 
-mò bēi sī rǎn，shī zàn gāo yáng  
-墨悲丝染，诗赞羔羊。
+```text
+mò   bēi  sī   rǎn  ，   shī  zàn  gāo  yáng 。
+墨   悲   丝   染   ，   诗   赞   羔   羊   。
+```
 
 > 🎬 **镜头 4 · 向贤**（第 8 句：景行克念、作圣之路）
 
-jǐng xíng wéi xián，kè niàn zuò shèng  
-景行维贤，克念作圣。
+```text
+jǐng  xíng  wéi   xián  ，    kè    niàn  zuò   shèng 。
+景    行    维    贤    ，    克    念    作    圣    。
+```
 
 > 🎬 **镜头 5 · 慎行**（第 9–11 句：德立、传声、祸福皆积）
 
-dé jiàn míng lì，xíng duān biǎo zhèng  
-德建名立，形端表正。
+```text
+dé    jiàn  míng  lì    ，    xíng  duān  biǎo  zhèng 。
+德    建    名    立    ，    形    端    表    正    。
+```
 
-kōng gǔ chuán shēng，xū táng xí tīng  
-空谷传声，虚堂习听。
+```text
+kōng  gǔ    chuán shēng ，    xū    táng  xí    tīng  。
+空    谷    传    声    ，    虚    堂    习    听    。
+```
 
-huò yīn è jī，fú yuán shàn qìng  
-祸因恶积，福缘善庆。
+```text
+huò  yīn  è    jī   ，   fú   yuán shàn qìng 。
+祸   因   恶   积   ，   福   缘   善   庆   。
+```
 
 > 🎬 **镜头 6 · 惜时**（第 12 句：寸阴是竞）
 
-chǐ bì fēi bǎo，cùn yīn shì jìng  
-尺璧非宝，寸阴是竞。
+```text
+chǐ  bì   fēi  bǎo  ，   cùn  yīn  shì  jìng 。
+尺   璧   非   宝   ，   寸   阴   是   竞   。
+```
 
 > 🎬 **镜头 7 · 孝忠落地**（第 13–15 句：竭力、临深履薄、温凊）
 
-zī fù shì jūn，yuē yán yǔ jìng  
-资父事君，曰严与敬。
+```text
+zī   fù   shì  jūn  ，   yuē  yán  yǔ   jìng 。
+资   父   事   君   ，   曰   严   与   敬   。
+```
 
-xiào dāng jié lì，zhōng zé jìn mìng  
-孝当竭力，忠则尽命。
+```text
+xiào  dāng  jié   lì    ，    zhōng zé    jìn   mìng  。
+孝    当    竭    力    ，    忠    则    尽    命    。
+```
 
-lín shēn lǚ bó，sù xīng wēn qìng  
-临深履薄，夙兴温凊。
+```text
+lín  shēn lǚ   bó   ，   sù   xīng wēn  qìng 。
+临   深   履   薄   ，   夙   兴   温   凊   。
+```
 
 > 🎬 **镜头 8 · 气象与善终**（第 16–20 句：兰松、川渊、慎终宜令）
 
-sì lán sī xīn，rú sōng zhī shèng  
-似兰斯馨，如松之盛。
+```text
+sì    lán   sī    xīn   ，    rú    sōng  zhī   shèng 。
+似    兰    斯    馨    ，    如    松    之    盛    。
+```
 
-chuān liú bù xī，yuān chéng qǔ yìng  
-川流不息，渊澄取映。
+```text
+chuān liú   bù    xī    ，    yuān  chéng qǔ    yìng  。
+川    流    不    息    ，    渊    澄    取    映    。
+```
 
-róng zhǐ ruò sī，yán cí ān dìng  
-容止若思，言辞安定。
+```text
+róng zhǐ  ruò  sī   ，   yán  cí   ān   dìng 。
+容   止   若   思   ，   言   辞   安   定   。
+```
 
-dǔ chū chéng měi，shèn zhōng yí lìng  
-笃初诚美，慎终宜令。
+```text
+dǔ    chū   chéng měi   ，    shèn  zhōng yí    lìng  。
+笃    初    诚    美    ，    慎    终    宜    令    。
+```
 
-róng yè suǒ jī，jí shèn wú jìng  
-荣业所基，籍甚无竟。
+```text
+róng yè   suǒ  jī   ，   jí   shèn wú   jìng 。
+荣   业   所   基   ，   籍   甚   无   竟   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

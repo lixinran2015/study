@@ -4,25 +4,37 @@
 
 ## 原文（拼音一行在上、原文一行在下）
 
-zhāng liáng yuán shì bù yī，xiāo hé chēng wèi xiàn lì  
-张良原是布衣，萧何称谓县吏。
+```text
+zhāng liáng yuán  shì   bù    yī    ，    xiāo  hé    chēng wèi   xiàn  lì    。
+张    良    原    是    布    衣    ，    萧    何    称    谓    县    吏    。
+```
 
-yàn zǐ shēn wú wǔ chǐ，fēng wéi qí guó zǎi xiàng；kǒng míng jū cǎo lú，néng zuò shǔ hàn jūn shī  
-晏子身无五尺，封为齐国宰相；孔明居草庐，能作蜀汉军师。
+```text
+yàn   zǐ    shēn  wú    wǔ    chǐ   ，    fēng  wéi   qí    guó   zǎi   xiàng ；    kǒng  míng  jū    cǎo   lú    ，    néng  zuò   shǔ   hàn   jūn   shī   。
+晏    子    身    无    五    尺    ，    封    为    齐    国    宰    相    ；    孔    明    居    草    庐    ，    能    作    蜀    汉    军    师    。
+```
 
-chǔ bà suī xióng，bài yú wū jiāng zì wěn；hàn wáng suī ruò，jìng yǒu wàn lǐ jiāng shān  
-楚霸虽雄，败于乌江自刎；汉王虽弱，竟有万里江山。
+```text
+chǔ   bà    suī   xióng ，    bài   yú    wū    jiāng zì    wěn   ；    hàn   wáng  suī   ruò   ，    jìng  yǒu   wàn   lǐ    jiāng shān  。
+楚    霸    虽    雄    ，    败    于    乌    江    自    刎    ；    汉    王    虽    弱    ，    竟    有    万    里    江    山    。
+```
 
-lǐ guǎng yǒu shè hǔ zhī wēi，dào lǎo wú fēng；féng táng yǒu chéng lóng zhī cái，yī shēng bù yù  
-李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。
+```text
+lǐ    guǎng yǒu   shè   hǔ    zhī   wēi   ，    dào   lǎo   wú    fēng  ；    féng  táng  yǒu   chéng lóng  zhī   cái   ，    yī    shēng bù    yù    。
+李    广    有    射    虎    之    威    ，    到    老    无    封    ；    冯    唐    有    乘    龙    之    才    ，    一    生    不    遇    。
+```
 
-hán xìn wèi yù zhī shí，wú yī rì sān cān；jí zhì yù xíng，yāo xuán sān chǐ yù yìn  
-韩信未遇之时，无一日三餐；及至遇行，腰悬三尺玉印。
+```text
+hán  xìn  wèi  yù   zhī  shí  ，   wú   yī   rì   sān  cān  ；   jí   zhì  yù   xíng ，   yāo  xuán sān  chǐ  yù   yìn  。
+韩   信   未   遇   之   时   ，   无   一   日   三   餐   ；   及   至   遇   行   ，   腰   悬   三   尺   玉   印   。
+```
 
-yī dàn shí shuāi，sǐ yú yīn rén zhī shǒu  
-一旦时衰，死于阴人之手。
+```text
+yī    dàn   shí   shuāi ，    sǐ    yú    yīn   rén   zhī   shǒu  。
+一    旦    时    衰    ，    死    于    阴    人    之    手    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 逐句白话
 

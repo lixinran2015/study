@@ -6,61 +6,93 @@
 
 > 🎬 **镜头 1 · 性善与专一**（第 1–4 行：性本善、教贵专）
 
-rén zhī chū，xìng běn shàn  
-人之初，性本善。
+```text
+rén  zhī  chū  ，   xìng běn  shàn 。
+人   之   初   ，   性   本   善   。
+```
 
-xìng xiāng jìn，xí xiāng yuǎn  
-性相近，习相远。
+```text
+xìng  xiāng jìn   ，    xí    xiāng yuǎn  。
+性    相    近    ，    习    相    远    。
+```
 
-gǒu bù jiào，xìng nǎi qiān  
-苟不教，性乃迁。
+```text
+gǒu  bù   jiào ，   xìng nǎi  qiān 。
+苟   不   教   ，   性   乃   迁   。
+```
 
-jiào zhī dào，guì yǐ zhuān  
-教之道，贵以专。
+```text
+jiào  zhī   dào   ，    guì   yǐ    zhuān 。
+教    之    道    ，    贵    以    专    。
+```
 
 > 🎬 **镜头 2 · 两个家教楷模**（第 5–8 行：孟母断机、窦氏五桂）
 
-xī mèng mǔ，zé lín chù  
-昔孟母，择邻处。
+```text
+xī   mèng mǔ   ，   zé   lín  chù  。
+昔   孟   母   ，   择   邻   处   。
+```
 
-zǐ bù xué，duàn jī zhù  
-子不学，断机杼。
+```text
+zǐ   bù   xué  ，   duàn jī   zhù  。
+子   不   学   ，   断   机   杼   。
+```
 
-dòu yàn shān，yǒu yì fāng  
-窦燕山，有义方。
+```text
+dòu  yàn  shān ，   yǒu  yì   fāng 。
+窦   燕   山   ，   有   义   方   。
+```
 
-jiào wǔ zǐ，míng jù yáng  
-教五子，名俱扬。
+```text
+jiào wǔ   zǐ   ，   míng jù   yáng 。
+教   五   子   ，   名   俱   扬   。
+```
 
 > 🎬 **镜头 3 · 三方责任**（第 9–12 行：父过、师惰、老何为）
 
-yǎng bù jiào，fù zhī guò  
-养不教，父之过。
+```text
+yǎng bù   jiào ，   fù   zhī  guò  。
+养   不   教   ，   父   之   过   。
+```
 
-jiào bù yán，shī zhī duò  
-教不严，师之惰。
+```text
+jiào bù   yán  ，   shī  zhī  duò  。
+教   不   严   ，   师   之   惰   。
+```
 
-zǐ bù xué，fēi suǒ yí  
-子不学，非所宜。
+```text
+zǐ  bù  xué ，  fēi suǒ yí  。
+子  不  学  ，  非  所  宜  。
+```
 
-yòu bù xué，lǎo hé wéi  
-幼不学，老何为。
+```text
+yòu bù  xué ，  lǎo hé  wéi 。
+幼  不  学  ，  老  何  为  。
+```
 
 > 🎬 **镜头 4 · 玉与人**（第 13–16 行：琢玉、少时习礼）
 
-yù bù zhuó，bù chéng qì  
-玉不琢，不成器。
+```text
+yù    bù    zhuó  ，    bù    chéng qì    。
+玉    不    琢    ，    不    成    器    。
+```
 
-rén bù xué，bù zhī yì  
-人不学，不知义。
+```text
+rén bù  xué ，  bù  zhī yì  。
+人  不  学  ，  不  知  义  。
+```
 
-wéi rén zǐ，fāng shào shí  
-为人子，方少时。
+```text
+wéi  rén  zǐ   ，   fāng shào shí  。
+为   人   子   ，   方   少   时   。
+```
 
-qīn shī yǒu，xí lǐ yí  
-亲师友，习礼仪。
+```text
+qīn shī yǒu ，  xí  lǐ  yí  。
+亲  师  友  ，  习  礼  仪  。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

@@ -6,58 +6,88 @@
 
 > 🎬 **镜头 1 · 两京形胜**（第 1–2 句：邙洛、渭泾）
 
-dū yì huá xià，dōng xī èr jīng  
-都邑华夏，东西二京。
+```text
+dū   yì   huá  xià  ，   dōng xī   èr   jīng 。
+都   邑   华   夏   ，   东   西   二   京   。
+```
 
-bèi máng miàn luò，fú wèi jù jīng  
-背邙面洛，浮渭据泾。
+```text
+bèi  máng miàn luò  ，   fú   wèi  jù   jīng 。
+背   邙   面   洛   ，   浮   渭   据   泾   。
+```
 
 > 🎬 **镜头 2 · 宫殿巡游**（第 3–7 句：盘郁、彩画、甲帐、鼓瑟、星点官帽）
 
-gōng diàn pán yù，lóu guàn fēi jīng  
-宫殿盘郁，楼观飞惊。
+```text
+gōng diàn pán  yù   ，   lóu  guàn fēi  jīng 。
+宫   殿   盘   郁   ，   楼   观   飞   惊   。
+```
 
-tú xiě qín shòu，huà cǎi xiān líng  
-图写禽兽，画彩仙灵。
+```text
+tú   xiě  qín  shòu ，   huà  cǎi  xiān líng 。
+图   写   禽   兽   ，   画   彩   仙   灵   。
+```
 
-bǐng shè páng qǐ，jiǎ zhàng duì yíng  
-丙舍旁启，甲帐对楹。
+```text
+bǐng  shè   páng  qǐ    ，    jiǎ   zhàng duì   yíng  。
+丙    舍    旁    启    ，    甲    帐    对    楹    。
+```
 
-sì yán shè xí，gǔ sè chuī shēng  
-肆筵设席，鼓瑟吹笙。
+```text
+sì    yán   shè   xí    ，    gǔ    sè    chuī  shēng 。
+肆    筵    设    席    ，    鼓    瑟    吹    笙    。
+```
 
-shēng jiē nà bì，biàn zhuàn yí xīng  
-升阶纳陛，弁转疑星。
+```text
+shēng jiē   nà    bì    ，    biàn  zhuàn yí    xīng  。
+升    阶    纳    陛    ，    弁    转    疑    星    。
+```
 
 > 🎬 **镜头 3 · 藏书的荣耀**（第 8–10 句：广内承明、坟典群英、壁经）
 
-yòu tōng guǎng nèi，zuǒ dá chéng míng  
-右通广内，左达承明。
+```text
+yòu   tōng  guǎng nèi   ，    zuǒ   dá    chéng míng  。
+右    通    广    内    ，    左    达    承    明    。
+```
 
-jì jí fén diǎn，yì jù qún yīng  
-既集坟典，亦聚群英。
+```text
+jì   jí   fén  diǎn ，   yì   jù   qún  yīng 。
+既   集   坟   典   ，   亦   聚   群   英   。
+```
 
-dù gǎo zhōng lì，qī shū bì jīng  
-杜稿钟隶，漆书壁经。
+```text
+dù    gǎo   zhōng lì    ，    qī    shū   bì    jīng  。
+杜    稿    钟    隶    ，    漆    书    壁    经    。
+```
 
 > 🎬 **镜头 4 · 帝国排场**（第 11–15 句：将相、封赏、陪辇、勒碑）
 
-fǔ luó jiàng xiàng，lù jiā huái qīng  
-府罗将相，路侠槐卿。
+```text
+fǔ    luó   jiàng xiàng ，    lù    jiā   huái  qīng  。
+府    罗    将    相    ，    路    侠    槐    卿    。
+```
 
-hù fēng bā xiàn，jiā jǐ qiān bīng  
-户封八县，家给千兵。
+```text
+hù   fēng bā   xiàn ，   jiā  jǐ   qiān bīng 。
+户   封   八   县   ，   家   给   千   兵   。
+```
 
-gāo guān péi niǎn，qū gǔ zhèn yīng  
-高冠陪辇，驱毂振缨。
+```text
+gāo  guān péi  niǎn ，   qū   gǔ   zhèn yīng 。
+高   冠   陪   辇   ，   驱   毂   振   缨   。
+```
 
-shì lù chǐ fù，chē jià féi qīng  
-世禄侈富，车驾肥轻。
+```text
+shì  lù   chǐ  fù   ，   chē  jià  féi  qīng 。
+世   禄   侈   富   ，   车   驾   肥   轻   。
+```
 
-cè gōng mào shí，lè bēi kè míng  
-策功茂实，勒碑刻铭。
+```text
+cè   gōng mào  shí  ，   lè   bēi  kè   míng 。
+策   功   茂   实   ，   勒   碑   刻   铭   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

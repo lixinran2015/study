@@ -6,56 +6,82 @@
 
 > 🎬 **镜头 1 · 出仕之德**（第 1–2 句：登仕、甘棠遗爱）
 
-xué yōu dēng shì，shè zhí cóng zhèng  
-学优登仕，摄职从政。
+```text
+xué   yōu   dēng  shì   ，    shè   zhí   cóng  zhèng 。
+学    优    登    仕    ，    摄    职    从    政    。
+```
 
-cún yǐ gān táng，qù ér yì yǒng  
-存以甘棠，去而益咏。
+```text
+cún  yǐ   gān  táng ，   qù   ér   yì   yǒng 。
+存   以   甘   棠   ，   去   而   益   咏   。
+```
 
 > 🎬 **镜头 2 · 礼乐之序**（第 3–4 句：贵贱尊卑、夫妇和睦）
 
-yuè shū guì jiàn，lǐ bié zūn bēi  
-乐殊贵贱，礼别尊卑。
+```text
+yuè  shū  guì  jiàn ，   lǐ   bié  zūn  bēi  。
+乐   殊   贵   贱   ，   礼   别   尊   卑   。
+```
 
-shàng hé xià mù，fū chàng fù suí  
-上和下睦，夫唱妇随。
+```text
+shàng hé    xià   mù    ，    fū    chàng fù    suí   。
+上    和    下    睦    ，    夫    唱    妇    随    。
+```
 
 > 🎬 **镜头 3 · 家族之亲**（第 5–8 句：傅训母仪、伯叔兄弟）
 
-wài shòu fù xùn，rù fèng mǔ yí  
-外受傅训，入奉母仪。
+```text
+wài  shòu fù   xùn  ，   rù   fèng mǔ   yí   。
+外   受   傅   训   ，   入   奉   母   仪   。
+```
 
-zhū gū bó shū，yóu zǐ bǐ ér  
-诸姑伯叔，犹子比儿。
+```text
+zhū gū  bó  shū ，  yóu zǐ  bǐ  ér  。
+诸  姑  伯  叔  ，  犹  子  比  儿  。
+```
 
-kǒng huái xiōng dì，tóng qì lián zhī  
-孔怀兄弟，同气连枝。
+```text
+kǒng  huái  xiōng dì    ，    tóng  qì    lián  zhī   。
+孔    怀    兄    弟    ，    同    气    连    枝    。
+```
 
 > 🎬 **镜头 4 · 朋友之谊**（第 9 句：投分切磨）
 
-jiāo yǒu tóu fèn，qiē mó zhēn guī  
-交友投分，切磨箴规。
+```text
+jiāo yǒu  tóu  fèn  ，   qiē  mó   zhēn guī  。
+交   友   投   分   ，   切   磨   箴   规   。
+```
 
 > 🎬 **镜头 5 · 操守底线**（第 10–11 句：造次弗离、颠沛匪亏）
 
-rén cí yǐn cè，zào cì fú lí  
-仁慈隐恻，造次弗离。
+```text
+rén cí  yǐn cè  ，  zào cì  fú  lí  。
+仁  慈  隐  恻  ，  造  次  弗  离  。
+```
 
-jié yì lián tuì，diān pèi fěi kuī  
-节义廉退，颠沛匪亏。
+```text
+jié  yì   lián tuì  ，   diān pèi  fěi  kuī  。
+节   义   廉   退   ，   颠   沛   匪   亏   。
+```
 
 > 🎬 **镜头 6 · 守真之得**（第 12–13 句：守真志满、好爵自縻）
 
-xìng jìng qíng yì，xīn dòng shén pí  
-性静情逸，心动神疲。
+```text
+xìng jìng qíng yì   ，   xīn  dòng shén pí   。
+性   静   情   逸   ，   心   动   神   疲   。
+```
 
-shǒu zhēn zhì mǎn，zhú wù yì yí  
-守真志满，逐物意移。
+```text
+shǒu zhēn zhì  mǎn  ，   zhú  wù   yì   yí   。
+守   真   志   满   ，   逐   物   意   移   。
+```
 
-jiān chí yǎ cāo，hǎo jué zì mí  
-坚持雅操，好爵自縻。
+```text
+jiān chí  yǎ   cāo  ，   hǎo  jué  zì   mí   。
+坚   持   雅   操   ，   好   爵   自   縻   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

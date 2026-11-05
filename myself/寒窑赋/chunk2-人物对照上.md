@@ -4,19 +4,27 @@
 
 ## 原文（拼音一行在上、原文一行在下）
 
-gài wén：rén shēng zài shì，fù guì bù néng yín，pín jiàn bù néng yí  
-盖闻：人生在世，富贵不能淫，贫贱不能移。
+```text
+gài   wén   ：    rén   shēng zài   shì   ，    fù    guì   bù    néng  yín   ，    pín   jiàn  bù    néng  yí    。
+盖    闻    ：    人    生    在    世    ，    富    贵    不    能    淫    ，    贫    贱    不    能    移    。
+```
 
-wén zhāng gài shì，kǒng zǐ è yú chén bāng；wǔ lüè chāo qún，tài gōng diào yú wèi shuǐ  
-文章盖世，孔子厄于陈邦；武略超群，太公钓于渭水。
+```text
+wén   zhāng gài   shì   ，    kǒng  zǐ    è     yú    chén  bāng  ；    wǔ    lüè   chāo  qún   ，    tài   gōng  diào  yú    wèi   shuǐ  。
+文    章    盖    世    ，    孔    子    厄    于    陈    邦    ；    武    略    超    群    ，    太    公    钓    于    渭    水    。
+```
 
-yán yuān mìng duǎn，shí fēi xiōng è zhī tú；dào zhí nián cháng，qǐ shì shàn liáng zhī bèi  
-颜渊命短，实非凶恶之徒；盗跖年长，岂是善良之辈。
+```text
+yán   yuān  mìng  duǎn  ，    shí   fēi   xiōng è     zhī   tú    ；    dào   zhí   nián  cháng ，    qǐ    shì   shàn  liáng zhī   bèi   。
+颜    渊    命    短    ，    实    非    凶    恶    之    徒    ；    盗    跖    年    长    ，    岂    是    善    良    之    辈    。
+```
 
-yáo dì míng shèng，què shēng bù xiào zhī ér；gǔ sǒu wán dāi，fǎn shēng dà xiào zhī zǐ  
-尧帝明圣，却生不肖之儿；瞽叟顽呆，反生大孝之子。
+```text
+yáo   dì    míng  shèng ，    què   shēng bù    xiào  zhī   ér    ；    gǔ    sǒu   wán   dāi   ，    fǎn   shēng dà    xiào  zhī   zǐ    。
+尧    帝    明    圣    ，    却    生    不    肖    之    儿    ；    瞽    叟    顽    呆    ，    反    生    大    孝    之    子    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 逐句白话
 

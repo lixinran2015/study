@@ -6,48 +6,70 @@
 
 > 🎬 **镜头 1 · 八艺**（第 1–3 句：射丸琴啸、笔纸巧钓）
 
-bù shè liáo wán，jī qín ruǎn xiào  
-布射僚丸，嵇琴阮啸。
+```text
+bù   shè  liáo wán  ，   jī   qín  ruǎn xiào 。
+布   射   僚   丸   ，   嵇   琴   阮   啸   。
+```
 
-tián bǐ lún zhǐ，jūn qiǎo rèn diào  
-恬笔伦纸，钧巧任钓。
+```text
+tián bǐ   lún  zhǐ  ，   jūn  qiǎo rèn  diào 。
+恬   笔   伦   纸   ，   钧   巧   任   钓   。
+```
 
-shì fēn lì sú，bìng jiē jiā miào  
-释纷利俗，并皆佳妙。
+```text
+shì  fēn  lì   sú   ，   bìng jiē  jiā  miào 。
+释   纷   利   俗   ，   并   皆   佳   妙   。
+```
 
 > 🎬 **镜头 2 · 美人与时光**（第 4–5 句：颦笑、年矢羲晖）
 
-máo shī shū zī，gōng pín yán xiào  
-毛施淑姿，工颦妍笑。
+```text
+máo  shī  shū  zī   ，   gōng pín  yán  xiào 。
+毛   施   淑   姿   ，   工   颦   妍   笑   。
+```
 
-nián shǐ měi cù，xī huī lǎng yào  
-年矢每促，羲晖朗曜。
+```text
+nián shǐ  měi  cù   ，   xī   huī  lǎng yào  。
+年   矢   每   促   ，   羲   晖   朗   曜   。
+```
 
 > 🎬 **镜头 3 · 天象与薪火**（第 6–7 句：璇玑晦魄、薪尽火传）
 
-xuán jī xuán wò，huì pò huán zhào  
-璇玑悬斡，晦魄环照。
+```text
+xuán jī   xuán wò   ，   huì  pò   huán zhào 。
+璇   玑   悬   斡   ，   晦   魄   环   照   。
+```
 
-zhǐ xīn xiū hù，yǒng suí jí shào  
-指薪修祜，永绥吉劭。
+```text
+zhǐ  xīn  xiū  hù   ，   yǒng suí  jí   shào 。
+指   薪   修   祜   ，   永   绥   吉   劭   。
+```
 
 > 🎬 **镜头 4 · 仪态自警**（第 8–10 句：矩步、矜庄、孤陋寡闻）
 
-jǔ bù yǐn lǐng，fǔ yǎng láng miào  
-矩步引领，俯仰廊庙。
+```text
+jǔ   bù   yǐn  lǐng ，   fǔ   yǎng láng miào 。
+矩   步   引   领   ，   俯   仰   廊   庙   。
+```
 
-shù dài jīn zhuāng，pái huái zhān tiào  
-束带矜庄，徘徊瞻眺。
+```text
+shù    dài    jīn    zhuāng ，     pái    huái   zhān   tiào   。
+束     带     矜     庄     ，     徘     徊     瞻     眺     。
+```
 
-gū lòu guǎ wén，yú méng děng qiào  
-孤陋寡闻，愚蒙等诮。
+```text
+gū   lòu  guǎ  wén  ，   yú   méng děng qiào 。
+孤   陋   寡   闻   ，   愚   蒙   等   诮   。
+```
 
 > 🎬 **镜头 5 · 举重若轻**（第 11 句：焉哉乎也）
 
-wèi yǔ zhù zhě，yān zāi hū yě  
-谓语助者，焉哉乎也。
+```text
+wèi yǔ  zhù zhě ，  yān zāi hū  yě  。
+谓  语  助  者  ，  焉  哉  乎  也  。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

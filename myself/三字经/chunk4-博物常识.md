@@ -6,75 +6,115 @@
 
 > 🎬 **镜头 1 · 植物与动物**（第 51–54 行）
 
-dì suǒ shēng，yǒu cǎo mù  
-地所生，有草木。
+```text
+dì    suǒ   shēng ，    yǒu   cǎo   mù    。
+地    所    生    ，    有    草    木    。
+```
 
-cǐ zhí wù，biàn shuǐ lù  
-此植物，遍水陆。
+```text
+cǐ   zhí  wù   ，   biàn shuǐ lù   。
+此   植   物   ，   遍   水   陆   。
+```
 
-yǒu chóng yú，yǒu niǎo shòu  
-有虫鱼，有鸟兽。
+```text
+yǒu   chóng yú    ，    yǒu   niǎo  shòu  。
+有    虫    鱼    ，    有    鸟    兽    。
+```
 
-cǐ dòng wù，néng fēi zǒu  
-此动物，能飞走。
+```text
+cǐ   dòng wù   ，   néng fēi  zǒu  。
+此   动   物   ，   能   飞   走   。
+```
 
 > 🎬 **镜头 2 · 六谷六畜**（第 55–58 行）
 
-dào liáng shū，mài shǔ jì  
-稻粱菽，麦黍稷。
+```text
+dào   liáng shū   ，    mài   shǔ   jì    。
+稻    粱    菽    ，    麦    黍    稷    。
+```
 
-cǐ liù gǔ，rén suǒ shí  
-此六谷，人所食。
+```text
+cǐ  liù gǔ  ，  rén suǒ shí 。
+此  六  谷  ，  人  所  食  。
+```
 
-mǎ niú yáng，jī quǎn shǐ  
-马牛羊，鸡犬豕。
+```text
+mǎ   niú  yáng ，   jī   quǎn shǐ  。
+马   牛   羊   ，   鸡   犬   豕   。
+```
 
-cǐ liù chù，rén suǒ sì  
-此六畜，人所饲。
+```text
+cǐ  liù chù ，  rén suǒ sì  。
+此  六  畜  ，  人  所  饲  。
+```
 
 > 🎬 **镜头 3 · 七情**（第 59–60 行）
 
-yuē xǐ nù，yuē āi jù  
-曰喜怒，曰哀惧。
+```text
+yuē xǐ  nù  ，  yuē āi  jù  。
+曰  喜  怒  ，  曰  哀  惧  。
+```
 
-ài wù yù，qī qíng jù  
-爱恶欲，七情具。
+```text
+ài   wù   yù   ，   qī   qíng jù   。
+爱   恶   欲   ，   七   情   具   。
+```
 
 > 🎬 **镜头 4 · 五色五味五臭**（第 61–66 行）
 
-qīng chì huáng，jí hēi bái  
-青赤黄，及黑白。
+```text
+qīng  chì   huáng ，    jí    hēi   bái   。
+青    赤    黄    ，    及    黑    白    。
+```
 
-cǐ wǔ sè，mù suǒ shí  
-此五色，目所识。
+```text
+cǐ  wǔ  sè  ，  mù  suǒ shí 。
+此  五  色  ，  目  所  识  。
+```
 
-suān kǔ gān，jí xīn xián  
-酸苦甘，及辛咸。
+```text
+suān kǔ   gān  ，   jí   xīn  xián 。
+酸   苦   甘   ，   及   辛   咸   。
+```
 
-cǐ wǔ wèi，kǒu suǒ hán  
-此五味，口所含。
+```text
+cǐ  wǔ  wèi ，  kǒu suǒ hán 。
+此  五  味  ，  口  所  含  。
+```
 
-shān jiāo xiāng，jí xīng xiǔ  
-膻焦香，及腥朽。
+```text
+shān  jiāo  xiāng ，    jí    xīng  xiǔ   。
+膻    焦    香    ，    及    腥    朽    。
+```
 
-cǐ wǔ chòu，bí suǒ xiù  
-此五臭，鼻所嗅。
+```text
+cǐ   wǔ   chòu ，   bí   suǒ  xiù  。
+此   五   臭   ，   鼻   所   嗅   。
+```
 
 > 🎬 **镜头 5 · 八音与四声**（第 67–70 行）
 
-páo tǔ gé，mù shí jīn  
-匏土革，木石金。
+```text
+páo tǔ  gé  ，  mù  shí jīn 。
+匏  土  革  ，  木  石  金  。
+```
 
-sī yǔ zhú，nǎi bā yīn  
-丝与竹，乃八音。
+```text
+sī  yǔ  zhú ，  nǎi bā  yīn 。
+丝  与  竹  ，  乃  八  音  。
+```
 
-yuē píng shàng，yuē qù rù  
-曰平上，曰去入。
+```text
+yuē   píng  shàng ，    yuē   qù    rù    。
+曰    平    上    ，    曰    去    入    。
+```
 
-cǐ sì shēng，yí tiáo xié  
-此四声，宜调协。
+```text
+cǐ    sì    shēng ，    yí    tiáo  xié   。
+此    四    声    ，    宜    调    协    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

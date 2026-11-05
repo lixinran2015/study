@@ -6,71 +6,107 @@
 
 > 🎬 **镜头 1 · 混沌初开**（第 1–4 句：天地日月）
 
-tiān dì xuán huáng，yǔ zhòu hóng huāng  
-天地玄黄，宇宙洪荒。
+```text
+tiān  dì    xuán  huáng ，    yǔ    zhòu  hóng  huāng 。
+天    地    玄    黄    ，    宇    宙    洪    荒    。
+```
 
-rì yuè yíng zè，chén xiù liè zhāng  
-日月盈昃，辰宿列张。
+```text
+rì    yuè   yíng  zè    ，    chén  xiù   liè   zhāng 。
+日    月    盈    昃    ，    辰    宿    列    张    。
+```
 
-hán lái shǔ wǎng，qiū shōu dōng cáng  
-寒来暑往，秋收冬藏。
+```text
+hán  lái  shǔ  wǎng ，   qiū  shōu dōng cáng 。
+寒   来   暑   往   ，   秋   收   冬   藏   。
+```
 
-rùn yú chéng suì，lǜ lǚ tiáo yáng  
-闰余成岁，律吕调阳。
+```text
+rùn   yú    chéng suì   ，    lǜ    lǚ    tiáo  yáng  。
+闰    余    成    岁    ，    律    吕    调    阳    。
+```
 
 > 🎬 **镜头 2 · 四时物产**（第 5–9 句：云雨霜雪、金玉果蔬）
 
-yún téng zhì yǔ，lù jié wéi shuāng  
-云腾致雨，露结为霜。
+```text
+yún    téng   zhì    yǔ     ，     lù     jié    wéi    shuāng 。
+云     腾     致     雨     ，     露     结     为     霜     。
+```
 
-jīn shēng lì shuǐ，yù chū kūn gāng  
-金生丽水，玉出昆冈。
+```text
+jīn   shēng lì    shuǐ  ，    yù    chū   kūn   gāng  。
+金    生    丽    水    ，    玉    出    昆    冈    。
+```
 
-jiàn hào jù quē，zhū chēng yè guāng  
-剑号巨阙，珠称夜光。
+```text
+jiàn  hào   jù    quē   ，    zhū   chēng yè    guāng 。
+剑    号    巨    阙    ，    珠    称    夜    光    。
+```
 
-guǒ zhēn lǐ nài，cài zhòng jiè jiāng  
-果珍李柰，菜重芥姜。
+```text
+guǒ   zhēn  lǐ    nài   ，    cài   zhòng jiè   jiāng 。
+果    珍    李    柰    ，    菜    重    芥    姜    。
+```
 
-hǎi xián hé dàn，lín qián yǔ xiáng  
-海咸河淡，鳞潜羽翔。
+```text
+hǎi   xián  hé    dàn   ，    lín   qián  yǔ    xiáng 。
+海    咸    河    淡    ，    鳞    潜    羽    翔    。
+```
 
 > 🎬 **镜头 3 · 文明开端**（第 10–11 句：上古帝王、文字衣裳）
 
-lóng shī huǒ dì，niǎo guān rén huáng  
-龙师火帝，鸟官人皇。
+```text
+lóng  shī   huǒ   dì    ，    niǎo  guān  rén   huáng 。
+龙    师    火    帝    ，    鸟    官    人    皇    。
+```
 
-shǐ zhì wén zì，nǎi fú yī shang  
-始制文字，乃服衣裳。
+```text
+shǐ   zhì   wén   zì    ，    nǎi   fú    yī    shang 。
+始    制    文    字    ，    乃    服    衣    裳    。
+```
 
 > 🎬 **镜头 4 · 政权交替**（第 12–13 句：先禅让、后征伐）
 
-tuī wèi ràng guó，yǒu yú táo táng  
-推位让国，有虞陶唐。
+```text
+tuī  wèi  ràng guó  ，   yǒu  yú   táo  táng 。
+推   位   让   国   ，   有   虞   陶   唐   。
+```
 
-diào mín fá zuì，zhōu fā yīn tāng  
-吊民伐罪，周发殷汤。
+```text
+diào mín  fá   zuì  ，   zhōu fā   yīn  tāng 。
+吊   民   伐   罪   ，   周   发   殷   汤   。
+```
 
 > 🎬 **镜头 5 · 垂拱而治**（第 14–16 句：坐朝问道、万邦来朝）
 
-zuò cháo wèn dào，chuí gǒng píng zhāng  
-坐朝问道，垂拱平章。
+```text
+zuò   cháo  wèn   dào   ，    chuí  gǒng  píng  zhāng 。
+坐    朝    问    道    ，    垂    拱    平    章    。
+```
 
-ài yù lí shǒu，chén fú róng qiāng  
-爱育黎首，臣伏戎羌。
+```text
+ài    yù    lí    shǒu  ，    chén  fú    róng  qiāng 。
+爱    育    黎    首    ，    臣    伏    戎    羌    。
+```
 
-xiá ěr yī tǐ，shuài bīn guī wáng  
-遐迩一体，率宾归王。
+```text
+xiá   ěr    yī    tǐ    ，    shuài bīn   guī   wáng  。
+遐    迩    一    体    ，    率    宾    归    王    。
+```
 
 > 🎬 **镜头 6 · 祥瑞收尾**（第 17–18 句：凤鸣竹间、白驹食场）
 
-míng fèng zài zhú，bái jū shí cháng  
-鸣凤在竹，白驹食场。
+```text
+míng  fèng  zài   zhú   ，    bái   jū    shí   cháng 。
+鸣    凤    在    竹    ，    白    驹    食    场    。
+```
 
-huà bèi cǎo mù，lài jí wàn fāng  
-化被草木，赖及万方。
+```text
+huà  bèi  cǎo  mù   ，   lài  jí   wàn  fāng 。
+化   被   草   木   ，   赖   及   万   方   。
+```
 
-注：拼音按本字读音标注，不标变调（如"一体"的"一"仍标 yī）；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调（如"一体"的"一"仍标 yī）；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

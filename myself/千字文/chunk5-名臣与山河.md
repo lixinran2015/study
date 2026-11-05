@@ -6,64 +6,94 @@
 
 > 🎬 **镜头 1 · 开国辅臣**（第 1–2 句：姜尚、伊尹、周公）
 
-pán xī yī yǐn，zuǒ shí ē héng  
-磻溪伊尹，佐时阿衡。
+```text
+pán  xī   yī   yǐn  ，   zuǒ  shí  ē    héng 。
+磻   溪   伊   尹   ，   佐   时   阿   衡   。
+```
 
-yǎn zhái qū fù，wēi dàn shú yíng  
-奄宅曲阜，微旦孰营。
+```text
+yǎn  zhái qū   fù   ，   wēi  dàn  shú  yíng 。
+奄   宅   曲   阜   ，   微   旦   孰   营   。
+```
 
 > 🎬 **镜头 2 · 霸业与储君**（第 3–4 句：桓公、四皓、傅说）
 
-huán gōng kuāng hé，jì ruò fú qīng  
-桓公匡合，济弱扶倾。
+```text
+huán  gōng  kuāng hé    ，    jì    ruò   fú    qīng  。
+桓    公    匡    合    ，    济    弱    扶    倾    。
+```
 
-qǐ huí hàn huì，yuè gǎn wǔ dīng  
-绮回汉惠，说感武丁。
+```text
+qǐ   huí  hàn  huì  ，   yuè  gǎn  wǔ   dīng 。
+绮   回   汉   惠   ，   说   感   武   丁   。
+```
 
 > 🎬 **镜头 3 · 贤才治国**（第 5 句：多士实宁）
 
-jùn yì mì wù，duō shì shí níng  
-俊乂密勿，多士实宁。
+```text
+jùn  yì   mì   wù   ，   duō  shì  shí  níng 。
+俊   乂   密   勿   ，   多   士   实   宁   。
+```
 
 > 🎬 **镜头 4 · 春秋晋事**（第 6–8 句：争霸、假途灭虢、约法与烦刑）
 
-jìn chǔ gèng bà，zhào wèi kùn héng  
-晋楚更霸，赵魏困横。
+```text
+jìn  chǔ  gèng bà   ，   zhào wèi  kùn  héng 。
+晋   楚   更   霸   ，   赵   魏   困   横   。
+```
 
-jiǎ tú miè guó，jiàn tǔ huì méng  
-假途灭虢，践土会盟。
+```text
+jiǎ  tú   miè  guó  ，   jiàn tǔ   huì  méng 。
+假   途   灭   虢   ，   践   土   会   盟   。
+```
 
-hé zūn yuē fǎ，hán bì fán xíng  
-何遵约法，韩弊烦刑。
+```text
+hé   zūn  yuē  fǎ   ，   hán  bì   fán  xíng 。
+何   遵   约   法   ，   韩   弊   烦   刑   。
+```
 
 > 🎬 **镜头 5 · 战将与武功**（第 9–10 句：四大名将、宣威沙漠）
 
-qǐ jiǎn pō mù，yòng jūn zuì jīng  
-起翦颇牧，用军最精。
+```text
+qǐ   jiǎn pō   mù   ，   yòng jūn  zuì  jīng 。
+起   翦   颇   牧   ，   用   军   最   精   。
+```
 
-xuān wēi shā mò，chí yù dān qīng  
-宣威沙漠，驰誉丹青。
+```text
+xuān wēi  shā  mò   ，   chí  yù   dān  qīng 。
+宣   威   沙   漠   ，   驰   誉   丹   青   。
+```
 
 > 🎬 **镜头 6 · 大一统**（第 11–12 句：禹迹、秦并、泰山封禅）
 
-jiǔ zhōu yǔ jì，bǎi jùn qín bìng  
-九州禹迹，百郡秦并。
+```text
+jiǔ  zhōu yǔ   jì   ，   bǎi  jùn  qín  bìng 。
+九   州   禹   迹   ，   百   郡   秦   并   。
+```
 
-yuè zōng tài dài，shàn zhǔ yún tíng  
-岳宗泰岱，禅主云亭。
+```text
+yuè  zōng tài  dài  ，   shàn zhǔ  yún  tíng 。
+岳   宗   泰   岱   ，   禅   主   云   亭   。
+```
 
 > 🎬 **镜头 7 · 名山大川**（第 13–15 句：雁门、昆池洞庭、岩岫杳冥）
 
-yàn mén zǐ sài，jī tián chì chéng  
-雁门紫塞，鸡田赤城。
+```text
+yàn   mén   zǐ    sài   ，    jī    tián  chì   chéng 。
+雁    门    紫    塞    ，    鸡    田    赤    城    。
+```
 
-kūn chí jié shí，jù yě dòng tíng  
-昆池碣石，钜野洞庭。
+```text
+kūn  chí  jié  shí  ，   jù   yě   dòng tíng 。
+昆   池   碣   石   ，   钜   野   洞   庭   。
+```
 
-kuàng yuǎn mián miǎo，yán xiù yǎo míng  
-旷远绵邈，岩岫杳冥。
+```text
+kuàng yuǎn  mián  miǎo  ，    yán   xiù   yǎo   míng  。
+旷    远    绵    邈    ，    岩    岫    杳    冥    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

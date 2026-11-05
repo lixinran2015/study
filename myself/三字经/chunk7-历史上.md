@@ -6,89 +6,137 @@
 
 > 🎬 **镜头 1 · 读史准备**（第 114–115 行：经子通、考世系）
 
-jīng zǐ tōng，dú zhū shǐ  
-经子通，读诸史。
+```text
+jīng zǐ   tōng ，   dú   zhū  shǐ  。
+经   子   通   ，   读   诸   史   。
+```
 
-kǎo shì xì，zhī zhōng shǐ  
-考世系，知终始。
+```text
+kǎo   shì   xì    ，    zhī   zhōng shǐ   。
+考    世    系    ，    知    终    始    。
+```
 
 > 🎬 **镜头 2 · 三皇二帝**（第 116–119 行：羲农黄帝、尧舜揖逊）
 
-zì xī nóng，zhì huáng dì  
-自羲农，至黄帝。
+```text
+zì    xī    nóng  ，    zhì   huáng dì    。
+自    羲    农    ，    至    黄    帝    。
+```
 
-hào sān huáng，jū shàng shì  
-号三皇，居上世。
+```text
+hào   sān   huáng ，    jū    shàng shì   。
+号    三    皇    ，    居    上    世    。
+```
 
-táng yǒu yú，hào èr dì  
-唐有虞，号二帝。
+```text
+táng yǒu  yú   ，   hào  èr   dì   。
+唐   有   虞   ，   号   二   帝   。
+```
 
-xiāng yī xùn，chēng shèng shì  
-相揖逊，称盛世。
+```text
+xiāng yī    xùn   ，    chēng shèng shì   。
+相    揖    逊    ，    称    盛    世    。
+```
 
 > 🎬 **镜头 3 · 三王更替**（第 120–127 行：夏商周、四六八百载）
 
-xià yǒu yǔ，shāng yǒu tāng  
-夏有禹，商有汤。
+```text
+xià   yǒu   yǔ    ，    shāng yǒu   tāng  。
+夏    有    禹    ，    商    有    汤    。
+```
 
-zhōu wén wǔ，chēng sān wáng  
-周文武，称三王。
+```text
+zhōu  wén   wǔ    ，    chēng sān   wáng  。
+周    文    武    ，    称    三    王    。
+```
 
-xià chuán zǐ，jiā tiān xià  
-夏传子，家天下。
+```text
+xià   chuán zǐ    ，    jiā   tiān  xià   。
+夏    传    子    ，    家    天    下    。
+```
 
-sì bǎi zǎi，qiān xià shè  
-四百载，迁夏社。
+```text
+sì   bǎi  zǎi  ，   qiān xià  shè  。
+四   百   载   ，   迁   夏   社   。
+```
 
-tāng fá xià，guó hào shāng  
-汤伐夏，国号商。
+```text
+tāng  fá    xià   ，    guó   hào   shāng 。
+汤    伐    夏    ，    国    号    商    。
+```
 
-liù bǎi zǎi，zhì zhòu wáng  
-六百载，至纣亡。
+```text
+liù  bǎi  zǎi  ，   zhì  zhòu wáng 。
+六   百   载   ，   至   纣   亡   。
+```
 
-zhōu wǔ wáng，shǐ zhū zhòu  
-周武王，始诛纣。
+```text
+zhōu wǔ   wáng ，   shǐ  zhū  zhòu 。
+周   武   王   ，   始   诛   纣   。
+```
 
-bā bǎi zǎi，zuì cháng jiǔ  
-八百载，最长久。
+```text
+bā    bǎi   zǎi   ，    zuì   cháng jiǔ   。
+八    百    载    ，    最    长    久    。
+```
 
 > 🎬 **镜头 4 · 春秋战国**（第 128–131 行：东周、五霸七雄）
 
-zhōu zhé dōng，wáng gāng zhuì  
-周辙东，王纲坠。
+```text
+zhōu zhé  dōng ，   wáng gāng zhuì 。
+周   辙   东   ，   王   纲   坠   。
+```
 
-chěng gān gē，shàng yóu shuì  
-逞干戈，尚游说。
+```text
+chěng gān   gē    ，    shàng yóu   shuì  。
+逞    干    戈    ，    尚    游    说    。
+```
 
-shǐ chūn qiū，zhōng zhàn guó  
-始春秋，终战国。
+```text
+shǐ   chūn  qiū   ，    zhōng zhàn  guó   。
+始    春    秋    ，    终    战    国    。
+```
 
-wǔ bà qiáng，qī xióng chū  
-五霸强，七雄出。
+```text
+wǔ    bà    qiáng ，    qī    xióng chū   。
+五    霸    强    ，    七    雄    出    。
+```
 
 > 🎬 **镜头 5 · 秦汉**（第 132–135 行：嬴秦、楚汉、王莽）
 
-yíng qín shì，shǐ jiān bìng  
-嬴秦氏，始兼并。
+```text
+yíng qín  shì  ，   shǐ  jiān bìng 。
+嬴   秦   氏   ，   始   兼   并   。
+```
 
-chuán èr shì，chǔ hàn zhēng  
-传二世，楚汉争。
+```text
+chuán èr    shì   ，    chǔ   hàn   zhēng 。
+传    二    世    ，    楚    汉    争    。
+```
 
-gāo zǔ xīng，hàn yè jiàn  
-高祖兴，汉业建。
+```text
+gāo  zǔ   xīng ，   hàn  yè   jiàn 。
+高   祖   兴   ，   汉   业   建   。
+```
 
-zhì xiào píng，wáng mǎng cuàn  
-至孝平，王莽篡。
+```text
+zhì  xiào píng ，   wáng mǎng cuàn 。
+至   孝   平   ，   王   莽   篡   。
+```
 
 > 🎬 **镜头 6 · 东汉**（第 136–137 行：光武、终于献）
 
-guāng wǔ xīng，wéi dōng hàn  
-光武兴，为东汉。
+```text
+guāng wǔ    xīng  ，    wéi   dōng  hàn   。
+光    武    兴    ，    为    东    汉    。
+```
 
-sì bǎi zǎi，zhōng yú xiàn  
-四百年，终于献。
+```text
+sì    bǎi   zǎi   ，    zhōng yú    xiàn  。
+四    百    年    ，    终    于    献    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

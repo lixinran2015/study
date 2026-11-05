@@ -6,73 +6,113 @@
 
 > 🎬 **镜头 1 · 清**（第 164–171 行：康乾盛世到宣统殁）
 
-qīng shì zǔ，yīng jǐng mìng  
-清世祖，膺景命。
+```text
+qīng shì  zǔ   ，   yīng jǐng mìng 。
+清   世   祖   ，   膺   景   命   。
+```
 
-jìng sì fāng，kè dà dìng  
-靖四方，克大定。
+```text
+jìng sì   fāng ，   kè   dà   dìng 。
+靖   四   方   ，   克   大   定   。
+```
 
-yóu kāng yōng，lì qián jiā  
-由康雍，历乾嘉。
+```text
+yóu  kāng yōng ，   lì   qián jiā  。
+由   康   雍   ，   历   乾   嘉   。
+```
 
-mín ān fù，zhì jì kuā  
-民安富，治绩夸。
+```text
+mín ān  fù  ，  zhì jì  kuā 。
+民  安  富  ，  治  绩  夸  。
+```
 
-dào xián jiān，biàn luàn qǐ  
-道咸间，变乱起。
+```text
+dào  xián jiān ，   biàn luàn qǐ   。
+道   咸   间   ，   变   乱   起   。
+```
 
-shǐ yīng fǎ，rǎo dū bǐ  
-始英法，扰都鄙。
+```text
+shǐ  yīng fǎ   ，   rǎo  dū   bǐ   。
+始   英   法   ，   扰   都   鄙   。
+```
 
-tóng guāng hòu，xuān tǒng ruò  
-同光后，宣统弱。
+```text
+tóng  guāng hòu   ，    xuān  tǒng  ruò   。
+同    光    后    ，    宣    统    弱    。
+```
 
-chuán jiǔ dì，mǎn qīng mò  
-传九帝，满清殁。
+```text
+chuán jiǔ   dì    ，    mǎn   qīng  mò    。
+传    九    帝    ，    满    清    殁    。
+```
 
 > 🎬 **镜头 2 · 民国**（第 172–173 行：废帝制、建民国）
 
-gé mìng xīng，fèi dì zhì  
-革命兴，废帝制。
+```text
+gé   mìng xīng ，   fèi  dì   zhì  。
+革   命   兴   ，   废   帝   制   。
+```
 
-lì xiàn fǎ，jiàn mín guó  
-立宪法，建民国。
+```text
+lì   xiàn fǎ   ，   jiàn mín  guó  。
+立   宪   法   ，   建   民   国   。
+```
 
 > 🎬 **镜头 3 · 史书清单**（第 174–179 行：史记、汉书、后汉、国志、通鉴）
 
-gǔ jīn shǐ，quán zài zī  
-古今史，全在兹。
+```text
+gǔ   jīn  shǐ  ，   quán zài  zī   。
+古   今   史   ，   全   在   兹   。
+```
 
-zài zhì luàn，zhī xīng shuāi  
-载治乱，知兴衰。
+```text
+zài   zhì   luàn  ，    zhī   xīng  shuāi 。
+载    治    乱    ，    知    兴    衰    。
+```
 
-shī suī fán，dú yǒu cì  
-史虽繁，读有次。
+```text
+shī suī fán ，  dú  yǒu cì  。
+史  虽  繁  ，  读  有  次  。
+```
 
-shǐ jì yī，hàn shū èr  
-史记一，汉书二。
+```text
+shǐ jì  yī  ，  hàn shū èr  。
+史  记  一  ，  汉  书  二  。
+```
 
-hòu hàn sān，guó zhì sì  
-后汉三，国志四。
+```text
+hòu hàn sān ，  guó zhì sì  。
+后  汉  三  ，  国  志  四  。
+```
 
-jiān zhèng jīng，cān tōng jiàn  
-兼证经，参通鉴。
+```text
+jiān  zhèng jīng  ，    cān   tōng  jiàn  。
+兼    证    经    ，    参    通    鉴    。
+```
 
 > 🎬 **镜头 4 · 读史心法**（第 180–183 行：考实录、口诵心惟）
 
-dú shǐ zhě，kǎo shí lù  
-读史者，考实录。
+```text
+dú  shǐ zhě ，  kǎo shí lù  。
+读  史  者  ，  考  实  录  。
+```
 
-tōng gǔ jīn，ruò qīn mù  
-通古今，若亲目。
+```text
+tōng gǔ   jīn  ，   ruò  qīn  mù   。
+通   古   今   ，   若   亲   目   。
+```
 
-kǒu ér sòng，xīn ér wéi  
-口而诵，心而惟。
+```text
+kǒu  ér   sòng ，   xīn  ér   wéi  。
+口   而   诵   ，   心   而   惟   。
+```
 
-zhāo yú sī，xī yú sī  
-朝于斯，夕于斯。
+```text
+zhāo yú   sī   ，   xī   yú   sī   。
+朝   于   斯   ，   夕   于   斯   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

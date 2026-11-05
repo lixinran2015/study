@@ -6,79 +6,119 @@
 
 > 🎬 **镜头 1 · 园景四季**（第 1–4 句：荷艳、枇杷、落叶、鹍鹏）
 
-qú hé dì lì，yuán mǎng chōu tiáo  
-渠荷的历，园莽抽条。
+```text
+qú   hé   dì   lì   ，   yuán mǎng chōu tiáo 。
+渠   荷   的   历   ，   园   莽   抽   条   。
+```
 
-pí pá wǎn cuì，wú tóng zǎo diāo  
-枇杷晚翠，梧桐蚤凋。
+```text
+pí   pá   wǎn  cuì  ，   wú   tóng zǎo  diāo 。
+枇   杷   晚   翠   ，   梧   桐   蚤   凋   。
+```
 
-chén gēn wěi yì，luò yè piāo yáo  
-陈根委翳，落叶飘摇。
+```text
+chén gēn  wěi  yì   ，   luò  yè   piāo yáo  。
+陈   根   委   翳   ，   落   叶   飘   摇   。
+```
 
-yóu kūn dú yùn，líng mó jiàng xiāo  
-游鹍独运，凌摩绛霄。
+```text
+yóu   kūn   dú    yùn   ，    líng  mó    jiàng xiāo  。
+游    鹍    独    运    ，    凌    摩    绛    霄    。
+```
 
 > 🎬 **镜头 2 · 读书与慎言**（第 5–6 句：书囊、隔墙有耳）
 
-dān dú wán shì，yù mù náng xiāng  
-耽读玩市，寓目囊箱。
+```text
+dān   dú    wán   shì   ，    yù    mù    náng  xiāng 。
+耽    读    玩    市    ，    寓    目    囊    箱    。
+```
 
-yì yóu yōu wèi，zhǔ ěr yuán qiáng  
-易輶攸畏，属耳垣墙。
+```text
+yì    yóu   yōu   wèi   ，    zhǔ   ěr    yuán  qiáng 。
+易    輶    攸    畏    ，    属    耳    垣    墙    。
+```
 
 > 🎬 **镜头 3 · 饮食之道**（第 7–9 句：适口、饥饱、老少异粮）
 
-jù shàn cān fàn，shì kǒu chōng cháng  
-具膳餐饭，适口充肠。
+```text
+jù    shàn  cān   fàn   ，    shì   kǒu   chōng cháng 。
+具    膳    餐    饭    ，    适    口    充    肠    。
+```
 
-bǎo yù pēng zǎi，jī yàn zāo kāng  
-饱饫烹宰，饥厌糟糠。
+```text
+bǎo  yù   pēng zǎi  ，   jī   yàn  zāo  kāng 。
+饱   饫   烹   宰   ，   饥   厌   糟   糠   。
+```
 
-qīn qī gù jiù，lǎo shào yì liáng  
-亲戚故旧，老少异粮。
+```text
+qīn   qī    gù    jiù   ，    lǎo   shào  yì    liáng 。
+亲    戚    故    旧    ，    老    少    异    粮    。
+```
 
 > 🎬 **镜头 4 · 闺房起居**（第 10–12 句：绩纺、纨扇、象床）
 
-qiè yù jì fǎng，shì jīn wéi fáng  
-妾御绩纺，侍巾帷房。
+```text
+qiè  yù   jì   fǎng ，   shì  jīn  wéi  fáng 。
+妾   御   绩   纺   ，   侍   巾   帷   房   。
+```
 
-wán shàn yuán jié，yín zhú wěi huáng  
-纨扇圆洁，银烛炜煌。
+```text
+wán   shàn  yuán  jié   ，    yín   zhú   wěi   huáng 。
+纨    扇    圆    洁    ，    银    烛    炜    煌    。
+```
 
-zhòu mián xī mèi，lán sǔn xiàng chuáng  
-昼眠夕寐，蓝笋象床。
+```text
+zhòu   mián   xī     mèi    ，     lán    sǔn    xiàng  chuáng 。
+昼     眠     夕     寐     ，     蓝     笋     象     床     。
+```
 
 > 🎬 **镜头 5 · 宴乐祭祀**（第 13–16 句：举觞、顿足、烝尝、稽颡）
 
-xián gē jiǔ yàn，jiē bēi jǔ shāng  
-弦歌酒宴，接杯举觞。
+```text
+xián  gē    jiǔ   yàn   ，    jiē   bēi   jǔ    shāng 。
+弦    歌    酒    宴    ，    接    杯    举    觞    。
+```
 
-jiǎo shǒu dùn zú，yuè yù qiě kāng  
-矫手顿足，悦豫且康。
+```text
+jiǎo shǒu dùn  zú   ，   yuè  yù   qiě  kāng 。
+矫   手   顿   足   ，   悦   豫   且   康   。
+```
 
-dí hòu sì xù，jì sì zhēng cháng  
-嫡后嗣续，祭祀烝尝。
+```text
+dí    hòu   sì    xù    ，    jì    sì    zhēng cháng 。
+嫡    后    嗣    续    ，    祭    祀    烝    尝    。
+```
 
-qǐ sǎng zài bài，sǒng jù kǒng huáng  
-稽颡再拜，悚惧恐惶。
+```text
+qǐ    sǎng  zài   bài   ，    sǒng  jù    kǒng  huáng 。
+稽    颡    再    拜    ，    悚    惧    恐    惶    。
+```
 
 > 🎬 **镜头 6 · 书札日常**（第 17–18 句：简要、想浴）
 
-jiān dié jiǎn yào，gù dá shěn xiáng  
-笺牒简要，顾答审详。
+```text
+jiān  dié   jiǎn  yào   ，    gù    dá    shěn  xiáng 。
+笺    牒    简    要    ，    顾    答    审    详    。
+```
 
-hái gòu xiǎng yù，zhí rè yuàn liáng  
-骸垢想浴，执热愿凉。
+```text
+hái   gòu   xiǎng yù    ，    zhí   rè    yuàn  liáng 。
+骸    垢    想    浴    ，    执    热    愿    凉    。
+```
 
 > 🎬 **镜头 7 · 牲畜与法纪**（第 19–20 句：骇跃、诛捕）
 
-lǘ luó dú tè，hài yuè chāo xiāng  
-驴骡犊特，骇跃超骧。
+```text
+lǘ    luó   dú    tè    ，    hài   yuè   chāo  xiāng 。
+驴    骡    犊    特    ，    骇    跃    超    骧    。
+```
 
-zhū zhǎn zéi dào，bǔ huò pàn wáng  
-诛斩贼盗，捕获叛亡。
+```text
+zhū  zhǎn zéi  dào  ，   bǔ   huò  pàn  wáng 。
+诛   斩   贼   盗   ，   捕   获   叛   亡   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

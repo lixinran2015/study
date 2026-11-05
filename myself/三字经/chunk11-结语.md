@@ -6,47 +6,71 @@
 
 > 🎬 **镜头 1 · 不如物**（第 217–220 行：犬、鸡、蚕、蜂）
 
-quǎn shǒu yè，jī sī chén  
-犬守夜，鸡司晨。
+```text
+quǎn shǒu yè   ，   jī   sī   chén 。
+犬   守   夜   ，   鸡   司   晨   。
+```
 
-gǒu bù xué，hé wéi rén  
-苟不学，曷为人。
+```text
+gǒu bù  xué ，  hé  wéi rén 。
+苟  不  学  ，  曷  为  人  。
+```
 
-cán tǔ sī，fēng niàng mì  
-蚕吐丝，蜂酿蜜。
+```text
+cán   tǔ    sī    ，    fēng  niàng mì    。
+蚕    吐    丝    ，    蜂    酿    蜜    。
+```
 
-rén bù xué，bù rú wù  
-人不学，不如物。
+```text
+rén bù  xué ，  bù  rú  wù  。
+人  不  学  ，  不  如  物  。
+```
 
 > 🎬 **镜头 2 · 学以致用**（第 221–224 行：致君泽民、光前裕后）
 
-yòu ér xué，zhuàng ér xíng  
-幼而学，壮而行。
+```text
+yòu    ér     xué    ，     zhuàng ér     xíng   。
+幼     而     学     ，     壮     而     行     。
+```
 
-shàng zhì jūn，xià zé mín  
-上致君，下泽民。
+```text
+shàng zhì   jūn   ，    xià   zé    mín   。
+上    致    君    ，    下    泽    民    。
+```
 
-yáng míng shēng，xiǎn fù mǔ  
-扬名声，显父母。
+```text
+yáng  míng  shēng ，    xiǎn  fù    mǔ    。
+扬    名    声    ，    显    父    母    。
+```
 
-guāng yú qián，yù yú hòu  
-光于前，裕于后。
+```text
+guāng yú    qián  ，    yù    yú    hòu   。
+光    于    前    ，    裕    于    后    。
+```
 
 > 🎬 **镜头 3 · 一经胜黄金**（第 225–228 行：金满籝、惟一经、宜勉力）
 
-rén yí zǐ，jīn mǎn yíng  
-人遗子，金满籝。
+```text
+rén  yí   zǐ   ，   jīn  mǎn  yíng 。
+人   遗   子   ，   金   满   籝   。
+```
 
-wǒ jiào zǐ，wéi yī jīng  
-我教子，惟一经。
+```text
+wǒ   jiào zǐ   ，   wéi  yī   jīng 。
+我   教   子   ，   惟   一   经   。
+```
 
-qín yǒu gōng，xì wú yì  
-勤有功，戏无益。
+```text
+qín  yǒu  gōng ，   xì   wú   yì   。
+勤   有   功   ，   戏   无   益   。
+```
 
-jiè zhī zāi，yí miǎn lì  
-戒之哉，宜勉力。
+```text
+jiè  zhī  zāi  ，   yí   miǎn lì   。
+戒   之   哉   ，   宜   勉   力   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

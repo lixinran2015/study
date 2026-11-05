@@ -4,16 +4,22 @@
 
 ## 原文（拼音一行在上、原文一行在下）
 
-tiān yǒu bù cè fēng yún，rén yǒu dàn xī huò fú  
-天有不测风云，人有旦夕祸福。
+```text
+tiān yǒu  bù   cè   fēng yún  ，   rén  yǒu  dàn  xī   huò  fú   。
+天   有   不   测   风   云   ，   人   有   旦   夕   祸   福   。
+```
 
-wú gōng bǎi zú，xíng bù jí shé；xióng jī liǎng yì，fēi bù guò yā  
-蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦。
+```text
+wú    gōng  bǎi   zú    ，    xíng  bù    jí    shé   ；    xióng jī    liǎng yì    ，    fēi   bù    guò   yā    。
+蜈    蚣    百    足    ，    行    不    及    蛇    ；    雄    鸡    两    翼    ，    飞    不    过    鸦    。
+```
 
-mǎ yǒu qiān lǐ zhī chéng，wú jì bù néng zì wǎng；rén yǒu chōng tiān zhī zhì，fēi yùn bù néng zì tōng  
-马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。
+```text
+mǎ    yǒu   qiān  lǐ    zhī   chéng ，    wú    jì    bù    néng  zì    wǎng  ；    rén   yǒu   chōng tiān  zhī   zhì   ，    fēi   yùn   bù    néng  zì    tōng  。
+马    有    千    里    之    程    ，    无    骑    不    能    自    往    ；    人    有    冲    天    之    志    ，    非    运    不    能    自    通    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 逐句白话
 

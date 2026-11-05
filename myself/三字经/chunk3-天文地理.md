@@ -6,55 +6,83 @@
 
 > 🎬 **镜头 1 · 天文坐标**（第 37–38 行：黄道、赤道）
 
-yuē huáng dào，rì suǒ chán  
-曰黄道，日所躔。
+```text
+yuē   huáng dào   ，    rì    suǒ   chán  。
+曰    黄    道    ，    日    所    躔    。
+```
 
-yuē chì dào，dāng zhōng quán  
-曰赤道，当中权。
+```text
+yuē   chì   dào   ，    dāng  zhōng quán  。
+曰    赤    道    ，    当    中    权    。
+```
 
 > 🎬 **镜头 2 · 中华之地**（第 39–42 行：赤道下、东北、寒燠、高原大海）
 
-chì dào xià，wēn nuǎn jí  
-赤道下，温暖极。
+```text
+chì  dào  xià  ，   wēn  nuǎn jí   。
+赤   道   下   ，   温   暖   极   。
+```
 
-wǒ zhōng huá，zài dōng běi  
-我中华，在东北。
+```text
+wǒ    zhōng huá   ，    zài   dōng  běi   。
+我    中    华    ，    在    东    北    。
+```
 
-hán yù jūn，shuāng lù gǎi  
-寒燠均，霜露改。
+```text
+hán    yù     jūn    ，     shuāng lù     gǎi    。
+寒     燠     均     ，     霜     露     改     。
+```
 
-yòu gāo yuán，zuǒ dà hǎi  
-右高原，左大海。
+```text
+yòu  gāo  yuán ，   zuǒ  dà   hǎi  。
+右   高   原   ，   左   大   海   。
+```
 
 > 🎬 **镜头 3 · 四渎五岳**（第 43–46 行：江河淮济、岱华嵩恒衡）
 
-yuē jiāng hé，yuē huái jì  
-曰江河，曰淮济。
+```text
+yuē   jiāng hé    ，    yuē   huái  jì    。
+曰    江    河    ，    曰    淮    济    。
+```
 
-cǐ sì dú，shuǐ zhī jì  
-此四渎，水之纪。
+```text
+cǐ   sì   dú   ，   shuǐ zhī  jì   。
+此   四   渎   ，   水   之   纪   。
+```
 
-yuē dài huá，sōng héng héng  
-曰岱华，嵩恒衡。
+```text
+yuē  dài  huá  ，   sōng héng héng 。
+曰   岱   华   ，   嵩   恒   衡   。
+```
 
-cǐ wǔ yuè，shān zhī míng  
-此五岳，山之名。
+```text
+cǐ   wǔ   yuè  ，   shān zhī  míng 。
+此   五   岳   ，   山   之   名   。
+```
 
 > 🎬 **镜头 4 · 四民五常**（第 47–50 行：士农工商、仁义礼智信）
 
-yuē shì nóng，yuē gōng shāng  
-曰士农，曰工商。
+```text
+yuē   shì   nóng  ，    yuē   gōng  shāng 。
+曰    士    农    ，    曰    工    商    。
+```
 
-cǐ sì mín，guó zhī liáng  
-此四民，国之良。
+```text
+cǐ    sì    mín   ，    guó   zhī   liáng 。
+此    四    民    ，    国    之    良    。
+```
 
-yuē rén yì，lǐ zhì xìn  
-曰仁义，礼智信。
+```text
+yuē rén yì  ，  lǐ  zhì xìn 。
+曰  仁  义  ，  礼  智  信  。
+```
 
-cǐ wǔ cháng，bù róng wěn  
-此五常，不容紊。
+```text
+cǐ    wǔ    cháng ，    bù    róng  wěn   。
+此    五    常    ，    不    容    紊    。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

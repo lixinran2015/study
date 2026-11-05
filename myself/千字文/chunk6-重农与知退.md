@@ -6,52 +6,78 @@
 
 > 🎬 **镜头 1 · 重农**（第 1–3 句：稼穑、南亩、税贡）
 
-zhì běn yú nóng，wù zī jià sè  
-治本于农，务兹稼穑。
+```text
+zhì  běn  yú   nóng ，   wù   zī   jià  sè   。
+治   本   于   农   ，   务   兹   稼   穑   。
+```
 
-chù zài nán mǔ，wǒ yì shǔ jì  
-俶载南亩，我艺黍稷。
+```text
+chù zài nán mǔ  ，  wǒ  yì  shǔ jì  。
+俶  载  南  亩  ，  我  艺  黍  稷  。
+```
 
-shuì shú gòng xīn，quàn shǎng chù zhì  
-税熟贡新，劝赏黜陟。
+```text
+shuì  shú   gòng  xīn   ，    quàn  shǎng chù   zhì   。
+税    熟    贡    新    ，    劝    赏    黜    陟    。
+```
 
 > 🎬 **镜头 2 · 立身**（第 4–8 句：敦素秉直、中庸、识人、自警）
 
-mèng kē dūn sù，shǐ yú bǐng zhí  
-孟轲敦素，史鱼秉直。
+```text
+mèng kē   dūn  sù   ，   shǐ  yú   bǐng zhí  。
+孟   轲   敦   素   ，   史   鱼   秉   直   。
+```
 
-shù jī zhōng yōng，láo qiān jǐn chì  
-庶几中庸，劳谦谨敕。
+```text
+shù   jī    zhōng yōng  ，    láo   qiān  jǐn   chì   。
+庶    几    中    庸    ，    劳    谦    谨    敕    。
+```
 
-líng yīn chá lǐ，jiàn mào biàn sè  
-聆音察理，鉴貌辨色。
+```text
+líng yīn  chá  lǐ   ，   jiàn mào  biàn sè   。
+聆   音   察   理   ，   鉴   貌   辨   色   。
+```
 
-yí jué jiā yóu，miǎn qí zhī zhí  
-贻厥嘉猷，勉其祗植。
+```text
+yí   jué  jiā  yóu  ，   miǎn qí   zhī  zhí  。
+贻   厥   嘉   猷   ，   勉   其   祗   植   。
+```
 
-xǐng gōng jī jiè，chǒng zēng kàng jí  
-省躬讥诫，宠增抗极。
+```text
+xǐng  gōng  jī    jiè   ，    chǒng zēng  kàng  jí    。
+省    躬    讥    诫    ，    宠    增    抗    极    。
+```
 
 > 🎬 **镜头 3 · 知退**（第 9–10 句：林皋、两疏见机）
 
-dài rǔ jìn chǐ，lín gāo xìng jí  
-殆辱近耻，林皋幸即。
+```text
+dài  rǔ   jìn  chǐ  ，   lín  gāo  xìng jí   。
+殆   辱   近   耻   ，   林   皋   幸   即   。
+```
 
-liǎng shū jiàn jī，jiě zǔ shuí bī  
-两疏见机，解组谁逼。
+```text
+liǎng shū   jiàn  jī    ，    jiě   zǔ    shuí  bī    。
+两    疏    见    机    ，    解    组    谁    逼    。
+```
 
 > 🎬 **镜头 4 · 闲居**（第 11–13 句：寂寥、求古、欢招）
 
-suǒ jū xián chù，chén mò jì liáo  
-索居闲处，沉默寂寥。
+```text
+suǒ  jū   xián chù  ，   chén mò   jì   liáo 。
+索   居   闲   处   ，   沉   默   寂   寥   。
+```
 
-qiú gǔ xún lùn，sǎn lǜ xiāo yáo  
-求古寻论，散虑逍遥。
+```text
+qiú  gǔ   xún  lùn  ，   sǎn  lǜ   xiāo yáo  。
+求   古   寻   论   ，   散   虑   逍   遥   。
+```
 
-xīn zòu lèi qiǎn，qī xiè huān zhāo  
-欣奏累遣，戚谢欢招。
+```text
+xīn  zòu  lèi  qiǎn ，   qī   xiè  huān zhāo 。
+欣   奏   累   遣   ，   戚   谢   欢   招   。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

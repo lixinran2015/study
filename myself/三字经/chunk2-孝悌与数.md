@@ -6,75 +6,115 @@
 
 > 🎬 **镜头 1 · 两个孝悌故事**（第 17–20 行：黄香温席、孔融让梨）
 
-xiāng jiǔ líng，néng wēn xí  
-香九龄，能温席。
+```text
+xiāng jiǔ   líng  ，    néng  wēn   xí    。
+香    九    龄    ，    能    温    席    。
+```
 
-xiào yú qīn，suǒ dāng zhí  
-孝于亲，所当执。
+```text
+xiào yú   qīn  ，   suǒ  dāng zhí  。
+孝   于   亲   ，   所   当   执   。
+```
 
-róng sì suì，néng ràng lí  
-融四岁，能让梨。
+```text
+róng sì   suì  ，   néng ràng lí   。
+融   四   岁   ，   能   让   梨   。
+```
 
-dì yú zhǎng，yí xiān zhī  
-弟于长，宜先知。
+```text
+dì    yú    zhǎng ，    yí    xiān  zhī   。
+弟    于    长    ，    宜    先    知    。
+```
 
 > 🎬 **镜头 2 · 为学次序**（第 21–24 行：孝悌 → 见闻 → 数目）
 
-shǒu xiào tì，cì jiàn wén  
-首孝弟，次见闻。
+```text
+shǒu xiào tì   ，   cì   jiàn wén  。
+首   孝   弟   ，   次   见   闻   。
+```
 
-zhī mǒu shù，shí mǒu wén  
-知某数，识某文。
+```text
+zhī mǒu shù ，  shí mǒu wén 。
+知  某  数  ，  识  某  文  。
+```
 
-yī ér shí，shí ér bǎi  
-一而十，十而百。
+```text
+yī  ér  shí ，  shí ér  bǎi 。
+一  而  十  ，  十  而  百  。
+```
 
-bǎi ér qiān，qiān ér wàn  
-百而千，千而万。
+```text
+bǎi  ér   qiān ，   qiān ér   wàn  。
+百   而   千   ，   千   而   万   。
+```
 
 > 🎬 **镜头 3 · 三才三光三纲**（第 25–28 行）
 
-sān cái zhě，tiān dì rén  
-三才者，天地人。
+```text
+sān  cái  zhě  ，   tiān dì   rén  。
+三   才   者   ，   天   地   人   。
+```
 
-sān guāng zhě，rì yuè xīng  
-三光者，日月星。
+```text
+sān   guāng zhě   ，    rì    yuè   xīng  。
+三    光    者    ，    日    月    星    。
+```
 
-sān gāng zhě，jūn chén yì  
-三纲者，君臣义。
+```text
+sān  gāng zhě  ，   jūn  chén yì   。
+三   纲   者   ，   君   臣   义   。
+```
 
-fù zǐ qīn，fū fù shùn  
-父子亲，夫妇顺。
+```text
+fù   zǐ   qīn  ，   fū   fù   shùn 。
+父   子   亲   ，   夫   妇   顺   。
+```
 
 > 🎬 **镜头 4 · 四时四方五行**（第 29–34 行）
 
-yuē chūn xià，yuē qiū dōng  
-曰春夏，曰秋冬。
+```text
+yuē  chūn xià  ，   yuē  qiū  dōng 。
+曰   春   夏   ，   曰   秋   冬   。
+```
 
-cǐ sì shí，yùn bù qióng  
-此四时，运不穷。
+```text
+cǐ    sì    shí   ，    yùn   bù    qióng 。
+此    四    时    ，    运    不    穷    。
+```
 
-yuē nán běi，yuē xī dōng  
-曰南北，曰西东。
+```text
+yuē  nán  běi  ，   yuē  xī   dōng 。
+曰   南   北   ，   曰   西   东   。
+```
 
-cǐ sì fāng，yìng hū zhōng  
-此四方，应乎中。
+```text
+cǐ    sì    fāng  ，    yìng  hū    zhōng 。
+此    四    方    ，    应    乎    中    。
+```
 
-yuē shuǐ huǒ，mù jīn tǔ  
-曰水火，木金土。
+```text
+yuē  shuǐ huǒ  ，   mù   jīn  tǔ   。
+曰   水   火   ，   木   金   土   。
+```
 
-cǐ wǔ xíng，běn hū shù  
-此五行，本乎数。
+```text
+cǐ   wǔ   xíng ，   běn  hū   shù  。
+此   五   行   ，   本   乎   数   。
+```
 
 > 🎬 **镜头 5 · 天干地支**（第 35–36 行）
 
-shí gān zhě，jiǎ zhì guǐ  
-十干者，甲至癸。
+```text
+shí gān zhě ，  jiǎ zhì guǐ 。
+十  干  者  ，  甲  至  癸  。
+```
 
-shí èr zhī，zǐ zhì hài  
-十二支，子至亥。
+```text
+shí èr  zhī ，  zǐ  zhì hài 。
+十  二  支  ，  子  至  亥  。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 

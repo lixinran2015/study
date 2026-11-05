@@ -6,120 +6,186 @@
 
 > 🎬 **镜头 1 · 圣贤勤学**（第 184–185 行：孔子师项橐）
 
-xī zhòng ní，shī xiàng tuó  
-昔仲尼，师项橐。
+```text
+xī    zhòng ní    ，    shī   xiàng tuó   。
+昔    仲    尼    ，    师    项    橐    。
+```
 
-gǔ shèng xián，shàng qín xué  
-古圣贤，尚勤学。
+```text
+gǔ    shèng xián  ，    shàng qín   xué   。
+古    圣    贤    ，    尚    勤    学    。
+```
 
 > 🎬 **镜头 2 · 做了官还学、没书也学**（第 186–189 行：赵普、路温舒、公孙弘）
 
-zhào zhōng lìng，dú lǔ lùn  
-赵中令，读鲁论。
+```text
+zhào  zhōng lìng  ，    dú    lǔ    lùn   。
+赵    中    令    ，    读    鲁    论    。
+```
 
-bǐ jì shì，xué qiě qín  
-彼既仕，学且勤。
+```text
+bǐ  jì  shì ，  xué qiě qín 。
+彼  既  仕  ，  学  且  勤  。
+```
 
-pī pú biān，xiāo zhú jiǎn  
-披蒲编，削竹简。
+```text
+pī   pú   biān ，   xiāo zhú  jiǎn 。
+披   蒲   编   ，   削   竹   简   。
+```
 
-bǐ wú shū，qiě zhī miǎn  
-彼无书，且知勉。
+```text
+bǐ   wú   shū  ，   qiě  zhī  miǎn 。
+彼   无   书   ，   且   知   勉   。
+```
 
 > 🎬 **镜头 3 · 苦读六式**（第 190–195 行：悬梁、刺股、囊萤、映雪、负薪、挂角）
 
-tóu xuán liáng，zhuī cì gǔ  
-头悬梁，锥刺股。
+```text
+tóu   xuán  liáng ，    zhuī  cì    gǔ    。
+头    悬    梁    ，    锥    刺    股    。
+```
 
-bǐ bù jiào，zì qín kǔ  
-彼不教，自勤苦。
+```text
+bǐ   bù   jiào ，   zì   qín  kǔ   。
+彼   不   教   ，   自   勤   苦   。
+```
 
-rú náng yíng，rú yìng xuě  
-如囊萤，如映雪。
+```text
+rú   náng yíng ，   rú   yìng xuě  。
+如   囊   萤   ，   如   映   雪   。
+```
 
-jiā suī pín，xué bù chuò  
-家虽贫，学不辍。
+```text
+jiā  suī  pín  ，   xué  bù   chuò 。
+家   虽   贫   ，   学   不   辍   。
+```
 
-rú fù xīn，rú guà jiǎo  
-如负薪，如挂角。
+```text
+rú   fù   xīn  ，   rú   guà  jiǎo 。
+如   负   薪   ，   如   挂   角   。
+```
 
-shēn suī láo，yóu kǔ zhuó  
-身虽劳，犹苦卓。
+```text
+shēn suī  láo  ，   yóu  kǔ   zhuó 。
+身   虽   劳   ，   犹   苦   卓   。
+```
 
 > 🎬 **镜头 4 · 晚学不晚**（第 196–199 行：苏洵二十七）
 
-sū lǎo quán，èr shí qī  
-苏老泉，二十七。
+```text
+sū   lǎo  quán ，   èr   shí  qī   。
+苏   老   泉   ，   二   十   七   。
+```
 
-shǐ fā fèn，dú shū jí  
-始发愤，读书籍。
+```text
+shǐ fā  fèn ，  dú  shū jí  。
+始  发  愤  ，  读  书  籍  。
+```
 
-bǐ jì lǎo，yóu huǐ chí  
-彼既老，犹悔迟。
+```text
+bǐ  jì  lǎo ，  yóu huǐ chí 。
+彼  既  老  ，  犹  悔  迟  。
+```
 
-ěr xiǎo shēng，yí zǎo sī  
-尔小生，宜早思。
+```text
+ěr    xiǎo  shēng ，    yí    zǎo   sī    。
+尔    小    生    ，    宜    早    思    。
+```
 
 > 🎬 **镜头 5 · 老而弥坚**（第 200–203 行：梁灏八十二）
 
-ruò liáng hào，bā shí èr  
-若梁灏，八十二。
+```text
+ruò   liáng hào   ，    bā    shí   èr    。
+若    梁    灏    ，    八    十    二    。
+```
 
-duì dà tíng，kuí duō shì  
-对大廷，魁多士。
+```text
+duì  dà   tíng ，   kuí  duō  shì  。
+对   大   廷   ，   魁   多   士   。
+```
 
-bǐ jì chéng，zhòng chēng yì  
-彼既成，众称异。
+```text
+bǐ    jì    chéng ，    zhòng chēng yì    。
+彼    既    成    ，    众    称    异    。
+```
 
-ěr xiǎo shēng，yí lì zhì  
-尔小生，宜立志。
+```text
+ěr    xiǎo  shēng ，    yí    lì    zhì   。
+尔    小    生    ，    宜    立    志    。
+```
 
 > 🎬 **镜头 6 · 神童两则**（第 204–207 行：祖莹、李泌）
 
-yíng bā suì，néng yǒng shī  
-莹八岁，能咏诗。
+```text
+yíng bā   suì  ，   néng yǒng shī  。
+莹   八   岁   ，   能   咏   诗   。
+```
 
-mì qī suì，néng fù qí  
-泌七岁，能赋棋。
+```text
+mì   qī   suì  ，   néng fù   qí   。
+泌   七   岁   ，   能   赋   棋   。
+```
 
-bǐ yǐng wù，rén chēng qí  
-彼颖悟，人称奇。
+```text
+bǐ    yǐng  wù    ，    rén   chēng qí    。
+彼    颖    悟    ，    人    称    奇    。
+```
 
-ěr yòu xué，dāng xiào zhī  
-尔幼学，当效之。
+```text
+ěr   yòu  xué  ，   dāng xiào zhī  。
+尔   幼   学   ，   当   效   之   。
+```
 
 > 🎬 **镜头 7 · 女子才学**（第 208–211 行：蔡文姬、谢道韫）
 
-cài wén jī，néng biàn qín  
-蔡文姬，能辨琴。
+```text
+cài  wén  jī   ，   néng biàn qín  。
+蔡   文   姬   ，   能   辨   琴   。
+```
 
-xiè dào yùn，néng yǒng yín  
-谢道韫，能咏吟。
+```text
+xiè  dào  yùn  ，   néng yǒng yín  。
+谢   道   韫   ，   能   咏   吟   。
+```
 
-bǐ nǚ zǐ，qiě cōng mǐn  
-彼女子，且聪敏。
+```text
+bǐ   nǚ   zǐ   ，   qiě  cōng mǐn  。
+彼   女   子   ，   且   聪   敏   。
+```
 
-ěr nán zǐ，dāng zì jǐng  
-尔男子，当自警。
+```text
+ěr   nán  zǐ   ，   dāng zì   jǐng 。
+尔   男   子   ，   当   自   警   。
+```
 
 > 🎬 **镜头 8 · 幼而仕**（第 212–216 行：刘晏正字、亦若是）
 
-táng liú yàn，fāng qī suì  
-唐刘晏，方七岁。
+```text
+táng liú  yàn  ，   fāng qī   suì  。
+唐   刘   晏   ，   方   七   岁   。
+```
 
-jǔ shén tóng，zuò zhèng zì  
-举神童，作正字。
+```text
+jǔ    shén  tóng  ，    zuò   zhèng zì    。
+举    神    童    ，    作    正    字    。
+```
 
-bǐ suī yòu，shēn yǐ shì  
-彼虽幼，身已仕。
+```text
+bǐ   suī  yòu  ，   shēn yǐ   shì  。
+彼   虽   幼   ，   身   已   仕   。
+```
 
-ěr yòu xué，miǎn ér zhì  
-尔幼学，勉而致。
+```text
+ěr   yòu  xué  ，   miǎn ér   zhì  。
+尔   幼   学   ，   勉   而   致   。
+```
 
-yǒu wéi zhě，yì ruò shì  
-有为者，亦若是。
+```text
+yǒu wéi zhě ，  yì  ruò shì 。
+有  为  者  ，  亦  若  是  。
+```
 
-注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
+注：拼音按本字读音标注，不标变调；原文为等宽对齐代码块：每个音节正对它的字，请勿增删空格。
 
 ## 白话串讲
 
