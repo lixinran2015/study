@@ -2,23 +2,48 @@
 
 > 从治国之本（农）讲到立身之本（谦与直），最后落在"知退"——殆辱近耻时，林泉是最好的退路。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-治本于农，务兹稼穑。 *Zhì běn yú nóng, wù zī jià sè.*
-俶载南亩，我艺黍稷。 *Chù zài nán mǔ, wǒ yì shǔ jì.*
-税熟贡新，劝赏黜陟。 *Shuì shú gòng xīn, quàn shǎng chù zhì.*
-孟轲敦素，史鱼秉直。 *Mèng kē dūn sù, shǐ yú bǐng zhí.*
-庶几中庸，劳谦谨敕。 *Shù jī zhōng yōng, láo qiān jǐn chì.*
-聆音察理，鉴貌辨色。 *Líng yīn chá lǐ, jiàn mào biàn sè.*
-贻厥嘉猷，勉其祗植。 *Yí jué jiā yóu, miǎn qí zhī zhí.*
-省躬讥诫，宠增抗极。 *Xǐng gōng jī jiè, chǒng zēng kàng jí.*
-殆辱近耻，林皋幸即。 *Dài rǔ jìn chǐ, lín gāo xìng jí.*
-两疏见机，解组谁逼。 *Liǎng shū jiàn jī, jiě zǔ shuí bī.*
-索居闲处，沉默寂寥。 *Suǒ jū xián chù, chén mò jì liáo.*
-求古寻论，散虑逍遥。 *Qiú gǔ xún lùn, sǎn lǜ xiāo yáo.*
-欣奏累遣，戚谢欢招。 *Xīn zòu lèi qiǎn, qī xiè huān zhāo.*
+zhì běn yú nóng，wù zī jià sè  
+治本于农，务兹稼穑。
 
-注：拼音按本字读音标注，不标变调。
+chù zài nán mǔ，wǒ yì shǔ jì  
+俶载南亩，我艺黍稷。
+
+shuì shú gòng xīn，quàn shǎng chù zhì  
+税熟贡新，劝赏黜陟。
+
+mèng kē dūn sù，shǐ yú bǐng zhí  
+孟轲敦素，史鱼秉直。
+
+shù jī zhōng yōng，láo qiān jǐn chì  
+庶几中庸，劳谦谨敕。
+
+líng yīn chá lǐ，jiàn mào biàn sè  
+聆音察理，鉴貌辨色。
+
+yí jué jiā yóu，miǎn qí zhī zhí  
+贻厥嘉猷，勉其祗植。
+
+xǐng gōng jī jiè，chǒng zēng kàng jí  
+省躬讥诫，宠增抗极。
+
+dài rǔ jìn chǐ，lín gāo xìng jí  
+殆辱近耻，林皋幸即。
+
+liǎng shū jiàn jī，jiě zǔ shuí bī  
+两疏见机，解组谁逼。
+
+suǒ jū xián chù，chén mò jì liáo  
+索居闲处，沉默寂寥。
+
+qiú gǔ xún lùn，sǎn lǜ xiāo yáo  
+求古寻论，散虑逍遥。
+
+xīn zòu lèi qiǎn，qī xiè huān zhāo  
+欣奏累遣，戚谢欢招。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

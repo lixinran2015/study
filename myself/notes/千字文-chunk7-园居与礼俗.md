@@ -2,30 +2,69 @@
 
 > 一幅"古代日常生活长卷"：园景、读书、饮食、起居、宴乐、祭祀、书札——千字文里最"生活流"的一块。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-渠荷的历，园莽抽条。 *Qú hé dì lì, yuán mǎng chōu tiáo.*
-枇杷晚翠，梧桐蚤凋。 *Pí pá wǎn cuì, wú tóng zǎo diāo.*
-陈根委翳，落叶飘摇。 *Chén gēn wěi yì, luò yè piāo yáo.*
-游鹍独运，凌摩绛霄。 *Yóu kūn dú yùn, líng mó jiàng xiāo.*
-耽读玩市，寓目囊箱。 *Dān dú wán shì, yù mù náng xiāng.*
-易輶攸畏，属耳垣墙。 *Yì yóu yōu wèi, zhǔ ěr yuán qiáng.*
-具膳餐饭，适口充肠。 *Jù shàn cān fàn, shì kǒu chōng cháng.*
-饱饫烹宰，饥厌糟糠。 *Bǎo yù pēng zǎi, jī yàn zāo kāng.*
-亲戚故旧，老少异粮。 *Qīn qī gù jiù, lǎo shào yì liáng.*
-妾御绩纺，侍巾帷房。 *Qiè yù jì fǎng, shì jīn wéi fáng.*
-纨扇圆洁，银烛炜煌。 *Wán shàn yuán jié, yín zhú wěi huáng.*
-昼眠夕寐，蓝笋象床。 *Zhòu mián xī mèi, lán sǔn xiàng chuáng.*
-弦歌酒宴，接杯举觞。 *Xián gē jiǔ yàn, jiē bēi jǔ shāng.*
-矫手顿足，悦豫且康。 *Jiǎo shǒu dùn zú, yuè yù qiě kāng.*
-嫡后嗣续，祭祀烝尝。 *Dí hòu sì xù, jì sì zhēng cháng.*
-稽颡再拜，悚惧恐惶。 *Qǐ sǎng zài bài, sǒng jù kǒng huáng.*
-笺牒简要，顾答审详。 *Jiān dié jiǎn yào, gù dá shěn xiáng.*
-骸垢想浴，执热愿凉。 *Hái gòu xiǎng yù, zhí rè yuàn liáng.*
-驴骡犊特，骇跃超骧。 *Lǘ luó dú tè, hài yuè chāo xiāng.*
-诛斩贼盗，捕获叛亡。 *Zhū zhǎn zéi dào, bǔ huò pàn wáng.*
+qú hé dì lì，yuán mǎng chōu tiáo  
+渠荷的历，园莽抽条。
 
-注：拼音按本字读音标注，不标变调。
+pí pá wǎn cuì，wú tóng zǎo diāo  
+枇杷晚翠，梧桐蚤凋。
+
+chén gēn wěi yì，luò yè piāo yáo  
+陈根委翳，落叶飘摇。
+
+yóu kūn dú yùn，líng mó jiàng xiāo  
+游鹍独运，凌摩绛霄。
+
+dān dú wán shì，yù mù náng xiāng  
+耽读玩市，寓目囊箱。
+
+yì yóu yōu wèi，zhǔ ěr yuán qiáng  
+易輶攸畏，属耳垣墙。
+
+jù shàn cān fàn，shì kǒu chōng cháng  
+具膳餐饭，适口充肠。
+
+bǎo yù pēng zǎi，jī yàn zāo kāng  
+饱饫烹宰，饥厌糟糠。
+
+qīn qī gù jiù，lǎo shào yì liáng  
+亲戚故旧，老少异粮。
+
+qiè yù jì fǎng，shì jīn wéi fáng  
+妾御绩纺，侍巾帷房。
+
+wán shàn yuán jié，yín zhú wěi huáng  
+纨扇圆洁，银烛炜煌。
+
+zhòu mián xī mèi，lán sǔn xiàng chuáng  
+昼眠夕寐，蓝笋象床。
+
+xián gē jiǔ yàn，jiē bēi jǔ shāng  
+弦歌酒宴，接杯举觞。
+
+jiǎo shǒu dùn zú，yuè yù qiě kāng  
+矫手顿足，悦豫且康。
+
+dí hòu sì xù，jì sì zhēng cháng  
+嫡后嗣续，祭祀烝尝。
+
+qǐ sǎng zài bài，sǒng jù kǒng huáng  
+稽颡再拜，悚惧恐惶。
+
+jiān dié jiǎn yào，gù dá shěn xiáng  
+笺牒简要，顾答审详。
+
+hái gòu xiǎng yù，zhí rè yuàn liáng  
+骸垢想浴，执热愿凉。
+
+lǘ luó dú tè，hài yuè chāo xiāng  
+驴骡犊特，骇跃超骧。
+
+zhū zhǎn zéi dào，bǔ huò pàn wáng  
+诛斩贼盗，捕获叛亡。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

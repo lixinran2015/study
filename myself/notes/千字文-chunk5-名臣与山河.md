@@ -2,25 +2,54 @@
 
 > 一部"贤臣名将 + 地理名胜"速览：从姜太公、伊尹到四大名将，从泰山封禅到洞庭昆池——史与地在这里合流。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-磻溪伊尹，佐时阿衡。 *Pán xī yī yǐn, zuǒ shí ē héng.*
-奄宅曲阜，微旦孰营。 *Yǎn zhái qū fù, wēi dàn shú yíng.*
-桓公匡合，济弱扶倾。 *Huán gōng kuāng hé, jì ruò fú qīng.*
-绮回汉惠，说感武丁。 *Qǐ huí hàn huì, yuè gǎn wǔ dīng.*
-俊乂密勿，多士实宁。 *Jùn yì mì wù, duō shì shí níng.*
-晋楚更霸，赵魏困横。 *Jìn chǔ gèng bà, zhào wèi kùn héng.*
-假途灭虢，践土会盟。 *Jiǎ tú miè guó, jiàn tǔ huì méng.*
-何遵约法，韩弊烦刑。 *Hé zūn yuē fǎ, hán bì fán xíng.*
-起翦颇牧，用军最精。 *Qǐ jiǎn pō mù, yòng jūn zuì jīng.*
-宣威沙漠，驰誉丹青。 *Xuān wēi shā mò, chí yù dān qīng.*
-九州禹迹，百郡秦并。 *Jiǔ zhōu yǔ jì, bǎi jùn qín bìng.*
-岳宗泰岱，禅主云亭。 *Yuè zōng tài dài, shàn zhǔ yún tíng.*
-雁门紫塞，鸡田赤城。 *Yàn mén zǐ sài, jī tián chì chéng.*
-昆池碣石，钜野洞庭。 *Kūn chí jié shí, jù yě dòng tíng.*
-旷远绵邈，岩岫杳冥。 *Kuàng yuǎn mián miǎo, yán xiù yǎo míng.*
+pán xī yī yǐn，zuǒ shí ē héng  
+磻溪伊尹，佐时阿衡。
 
-注：拼音按本字读音标注，不标变调。
+yǎn zhái qū fù，wēi dàn shú yíng  
+奄宅曲阜，微旦孰营。
+
+huán gōng kuāng hé，jì ruò fú qīng  
+桓公匡合，济弱扶倾。
+
+qǐ huí hàn huì，yuè gǎn wǔ dīng  
+绮回汉惠，说感武丁。
+
+jùn yì mì wù，duō shì shí níng  
+俊乂密勿，多士实宁。
+
+jìn chǔ gèng bà，zhào wèi kùn héng  
+晋楚更霸，赵魏困横。
+
+jiǎ tú miè guó，jiàn tǔ huì méng  
+假途灭虢，践土会盟。
+
+hé zūn yuē fǎ，hán bì fán xíng  
+何遵约法，韩弊烦刑。
+
+qǐ jiǎn pō mù，yòng jūn zuì jīng  
+起翦颇牧，用军最精。
+
+xuān wēi shā mò，chí yù dān qīng  
+宣威沙漠，驰誉丹青。
+
+jiǔ zhōu yǔ jì，bǎi jùn qín bìng  
+九州禹迹，百郡秦并。
+
+yuè zōng tài dài，shàn zhǔ yún tíng  
+岳宗泰岱，禅主云亭。
+
+yàn mén zǐ sài，jī tián chì chéng  
+雁门紫塞，鸡田赤城。
+
+kūn chí jié shí，jù yě dòng tíng  
+昆池碣石，钜野洞庭。
+
+kuàng yuǎn mián miǎo，yán xiù yǎo míng  
+旷远绵邈，岩岫杳冥。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

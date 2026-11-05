@@ -2,30 +2,69 @@
 
 > 从"身体发肤受之父母"讲起：孝是起点，然后展开一整套修身要求——立品、慎染、向贤、慎行、惜时，最后收在"慎终"。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-盖此身发，四大五常。 *Gài cǐ shēn fà, sì dà wǔ cháng.*
-恭惟鞠养，岂敢毁伤。 *Gōng wéi jū yǎng, qǐ gǎn huǐ shāng.*
-女慕贞洁，男效才良。 *Nǚ mù zhēn jié, nán xiào cái liáng.*
-知过必改，得能莫忘。 *Zhī guò bì gǎi, dé néng mò wàng.*
-罔谈彼短，靡恃己长。 *Wǎng tán bǐ duǎn, mǐ shì jǐ cháng.*
-信使可覆，器欲难量。 *Xìn shǐ kě fù, qì yù nán liáng.*
-墨悲丝染，诗赞羔羊。 *Mò bēi sī rǎn, shī zàn gāo yáng.*
-景行维贤，克念作圣。 *Jǐng xíng wéi xián, kè niàn zuò shèng.*
-德建名立，形端表正。 *Dé jiàn míng lì, xíng duān biǎo zhèng.*
-空谷传声，虚堂习听。 *Kōng gǔ chuán shēng, xū táng xí tīng.*
-祸因恶积，福缘善庆。 *Huò yīn è jī, fú yuán shàn qìng.*
-尺璧非宝，寸阴是竞。 *Chǐ bì fēi bǎo, cùn yīn shì jìng.*
-资父事君，曰严与敬。 *Zī fù shì jūn, yuē yán yǔ jìng.*
-孝当竭力，忠则尽命。 *Xiào dāng jié lì, zhōng zé jìn mìng.*
-临深履薄，夙兴温凊。 *Lín shēn lǚ bó, sù xīng wēn qìng.*
-似兰斯馨，如松之盛。 *Sì lán sī xīn, rú sōng zhī shèng.*
-川流不息，渊澄取映。 *Chuān liú bù xī, yuān chéng qǔ yìng.*
-容止若思，言辞安定。 *Róng zhǐ ruò sī, yán cí ān dìng.*
-笃初诚美，慎终宜令。 *Dǔ chū chéng měi, shèn zhōng yí lìng.*
-荣业所基，籍甚无竟。 *Róng yè suǒ jī, jí shèn wú jìng.*
+gài cǐ shēn fà，sì dà wǔ cháng  
+盖此身发，四大五常。
 
-注：拼音按本字读音标注，不标变调。
+gōng wéi jū yǎng，qǐ gǎn huǐ shāng  
+恭惟鞠养，岂敢毁伤。
+
+nǚ mù zhēn jié，nán xiào cái liáng  
+女慕贞洁，男效才良。
+
+zhī guò bì gǎi，dé néng mò wàng  
+知过必改，得能莫忘。
+
+wǎng tán bǐ duǎn，mǐ shì jǐ cháng  
+罔谈彼短，靡恃己长。
+
+xìn shǐ kě fù，qì yù nán liáng  
+信使可覆，器欲难量。
+
+mò bēi sī rǎn，shī zàn gāo yáng  
+墨悲丝染，诗赞羔羊。
+
+jǐng xíng wéi xián，kè niàn zuò shèng  
+景行维贤，克念作圣。
+
+dé jiàn míng lì，xíng duān biǎo zhèng  
+德建名立，形端表正。
+
+kōng gǔ chuán shēng，xū táng xí tīng  
+空谷传声，虚堂习听。
+
+huò yīn è jī，fú yuán shàn qìng  
+祸因恶积，福缘善庆。
+
+chǐ bì fēi bǎo，cùn yīn shì jìng  
+尺璧非宝，寸阴是竞。
+
+zī fù shì jūn，yuē yán yǔ jìng  
+资父事君，曰严与敬。
+
+xiào dāng jié lì，zhōng zé jìn mìng  
+孝当竭力，忠则尽命。
+
+lín shēn lǚ bó，sù xīng wēn qìng  
+临深履薄，夙兴温凊。
+
+sì lán sī xīn，rú sōng zhī shèng  
+似兰斯馨，如松之盛。
+
+chuān liú bù xī，yuān chéng qǔ yìng  
+川流不息，渊澄取映。
+
+róng zhǐ ruò sī，yán cí ān dìng  
+容止若思，言辞安定。
+
+dǔ chū chéng měi，shèn zhōng yí lìng  
+笃初诚美，慎终宜令。
+
+róng yè suǒ jī，jí shèn wú jìng  
+荣业所基，籍甚无竟。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

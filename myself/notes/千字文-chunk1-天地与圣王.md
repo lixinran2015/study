@@ -2,28 +2,63 @@
 
 > 从宇宙开辟写到万邦来朝：世界观 → 物产 → 上古帝王 → 禅让与征伐 → 太平祥瑞。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-天地玄黄，宇宙洪荒。 *Tiān dì xuán huáng, yǔ zhòu hóng huāng.*
-日月盈昃，辰宿列张。 *Rì yuè yíng zè, chén xiù liè zhāng.*
-寒来暑往，秋收冬藏。 *Hán lái shǔ wǎng, qiū shōu dōng cáng.*
-闰余成岁，律吕调阳。 *Rùn yú chéng suì, lǜ lǚ tiáo yáng.*
-云腾致雨，露结为霜。 *Yún téng zhì yǔ, lù jié wéi shuāng.*
-金生丽水，玉出昆冈。 *Jīn shēng lì shuǐ, yù chū kūn gāng.*
-剑号巨阙，珠称夜光。 *Jiàn hào jù quē, zhū chēng yè guāng.*
-果珍李柰，菜重芥姜。 *Guǒ zhēn lǐ nài, cài zhòng jiè jiāng.*
-海咸河淡，鳞潜羽翔。 *Hǎi xián hé dàn, lín qián yǔ xiáng.*
-龙师火帝，鸟官人皇。 *Lóng shī huǒ dì, niǎo guān rén huáng.*
-始制文字，乃服衣裳。 *Shǐ zhì wén zì, nǎi fú yī shang.*
-推位让国，有虞陶唐。 *Tuī wèi ràng guó, yǒu yú táo táng.*
-吊民伐罪，周发殷汤。 *Diào mín fá zuì, zhōu fā yīn tāng.*
-坐朝问道，垂拱平章。 *Zuò cháo wèn dào, chuí gǒng píng zhāng.*
-爱育黎首，臣伏戎羌。 *Ài yù lí shǒu, chén fú róng qiāng.*
-遐迩一体，率宾归王。 *Xiá ěr yī tǐ, shuài bīn guī wáng.*
-鸣凤在竹，白驹食场。 *Míng fèng zài zhú, bái jū shí cháng.*
-化被草木，赖及万方。 *Huà bèi cǎo mù, lài jí wàn fāng.*
+tiān dì xuán huáng，yǔ zhòu hóng huāng  
+天地玄黄，宇宙洪荒。
 
-注：拼音按本字读音标注，不标变调（如"一体"的"一"仍标 yī）。
+rì yuè yíng zè，chén xiù liè zhāng  
+日月盈昃，辰宿列张。
+
+hán lái shǔ wǎng，qiū shōu dōng cáng  
+寒来暑往，秋收冬藏。
+
+rùn yú chéng suì，lǜ lǚ tiáo yáng  
+闰余成岁，律吕调阳。
+
+yún téng zhì yǔ，lù jié wéi shuāng  
+云腾致雨，露结为霜。
+
+jīn shēng lì shuǐ，yù chū kūn gāng  
+金生丽水，玉出昆冈。
+
+jiàn hào jù quē，zhū chēng yè guāng  
+剑号巨阙，珠称夜光。
+
+guǒ zhēn lǐ nài，cài zhòng jiè jiāng  
+果珍李柰，菜重芥姜。
+
+hǎi xián hé dàn，lín qián yǔ xiáng  
+海咸河淡，鳞潜羽翔。
+
+lóng shī huǒ dì，niǎo guān rén huáng  
+龙师火帝，鸟官人皇。
+
+shǐ zhì wén zì，nǎi fú yī shang  
+始制文字，乃服衣裳。
+
+tuī wèi ràng guó，yǒu yú táo táng  
+推位让国，有虞陶唐。
+
+diào mín fá zuì，zhōu fā yīn tāng  
+吊民伐罪，周发殷汤。
+
+zuò cháo wèn dào，chuí gǒng píng zhāng  
+坐朝问道，垂拱平章。
+
+ài yù lí shǒu，chén fú róng qiāng  
+爱育黎首，臣伏戎羌。
+
+xiá ěr yī tǐ，shuài bīn guī wáng  
+遐迩一体，率宾归王。
+
+míng fèng zài zhú，bái jū shí cháng  
+鸣凤在竹，白驹食场。
+
+huà bèi cǎo mù，lài jí wàn fāng  
+化被草木，赖及万方。
+
+注：拼音按本字读音标注，不标变调（如"一体"的"一"仍标 yī）；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

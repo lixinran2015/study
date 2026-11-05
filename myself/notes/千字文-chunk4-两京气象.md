@@ -2,25 +2,54 @@
 
 > 从两京形胜写到帝国排场：宫殿楼阁、书画典籍、仪仗封赏、勒碑刻铭——一场帝国气象的"巡游"。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-都邑华夏，东西二京。 *Dū yì huá xià, dōng xī èr jīng.*
-背邙面洛，浮渭据泾。 *Bèi máng miàn luò, fú wèi jù jīng.*
-宫殿盘郁，楼观飞惊。 *Gōng diàn pán yù, lóu guàn fēi jīng.*
-图写禽兽，画彩仙灵。 *Tú xiě qín shòu, huà cǎi xiān líng.*
-丙舍旁启，甲帐对楹。 *Bǐng shè páng qǐ, jiǎ zhàng duì yíng.*
-肆筵设席，鼓瑟吹笙。 *Sì yán shè xí, gǔ sè chuī shēng.*
-升阶纳陛，弁转疑星。 *Shēng jiē nà bì, biàn zhuàn yí xīng.*
-右通广内，左达承明。 *Yòu tōng guǎng nèi, zuǒ dá chéng míng.*
-既集坟典，亦聚群英。 *Jì jí fén diǎn, yì jù qún yīng.*
-杜稿钟隶，漆书壁经。 *Dù gǎo zhōng lì, qī shū bì jīng.*
-府罗将相，路侠槐卿。 *Fǔ luó jiàng xiàng, lù jiā huái qīng.*
-户封八县，家给千兵。 *Hù fēng bā xiàn, jiā jǐ qiān bīng.*
-高冠陪辇，驱毂振缨。 *Gāo guān péi niǎn, qū gǔ zhèn yīng.*
-世禄侈富，车驾肥轻。 *Shì lù chǐ fù, chē jià féi qīng.*
-策功茂实，勒碑刻铭。 *Cè gōng mào shí, lè bēi kè míng.*
+dū yì huá xià，dōng xī èr jīng  
+都邑华夏，东西二京。
 
-注：拼音按本字读音标注，不标变调。
+bèi máng miàn luò，fú wèi jù jīng  
+背邙面洛，浮渭据泾。
+
+gōng diàn pán yù，lóu guàn fēi jīng  
+宫殿盘郁，楼观飞惊。
+
+tú xiě qín shòu，huà cǎi xiān líng  
+图写禽兽，画彩仙灵。
+
+bǐng shè páng qǐ，jiǎ zhàng duì yíng  
+丙舍旁启，甲帐对楹。
+
+sì yán shè xí，gǔ sè chuī shēng  
+肆筵设席，鼓瑟吹笙。
+
+shēng jiē nà bì，biàn zhuàn yí xīng  
+升阶纳陛，弁转疑星。
+
+yòu tōng guǎng nèi，zuǒ dá chéng míng  
+右通广内，左达承明。
+
+jì jí fén diǎn，yì jù qún yīng  
+既集坟典，亦聚群英。
+
+dù gǎo zhōng lì，qī shū bì jīng  
+杜稿钟隶，漆书壁经。
+
+fǔ luó jiàng xiàng，lù jiā huái qīng  
+府罗将相，路侠槐卿。
+
+hù fēng bā xiàn，jiā jǐ qiān bīng  
+户封八县，家给千兵。
+
+gāo guān péi niǎn，qū gǔ zhèn yīng  
+高冠陪辇，驱毂振缨。
+
+shì lù chǐ fù，chē jià féi qīng  
+世禄侈富，车驾肥轻。
+
+cè gōng mào shí，lè bēi kè míng  
+策功茂实，勒碑刻铭。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

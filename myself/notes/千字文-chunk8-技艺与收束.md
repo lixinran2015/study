@@ -2,21 +2,42 @@
 
 > 最后一站：八位身怀绝技的名人、美人时光、薪火之喻、仪态自警——全文以"焉哉乎也"四个虚字，举重若轻地收笔。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-布射僚丸，嵇琴阮啸。 *Bù shè liáo wán, jī qín ruǎn xiào.*
-恬笔伦纸，钧巧任钓。 *Tián bǐ lún zhǐ, jūn qiǎo rèn diào.*
-释纷利俗，并皆佳妙。 *Shì fēn lì sú, bìng jiē jiā miào.*
-毛施淑姿，工颦妍笑。 *Máo shī shū zī, gōng pín yán xiào.*
-年矢每促，羲晖朗曜。 *Nián shǐ měi cù, xī huī lǎng yào.*
-璇玑悬斡，晦魄环照。 *Xuán jī xuán wò, huì pò huán zhào.*
-指薪修祜，永绥吉劭。 *Zhǐ xīn xiū hù, yǒng suí jí shào.*
-矩步引领，俯仰廊庙。 *Jǔ bù yǐn lǐng, fǔ yǎng láng miào.*
-束带矜庄，徘徊瞻眺。 *Shù dài jīn zhuāng, pái huái zhān tiào.*
-孤陋寡闻，愚蒙等诮。 *Gū lòu guǎ wén, yú méng děng qiào.*
-谓语助者，焉哉乎也。 *Wèi yǔ zhù zhě, yān zāi hū yě.*
+bù shè liáo wán，jī qín ruǎn xiào  
+布射僚丸，嵇琴阮啸。
 
-注：拼音按本字读音标注，不标变调。
+tián bǐ lún zhǐ，jūn qiǎo rèn diào  
+恬笔伦纸，钧巧任钓。
+
+shì fēn lì sú，bìng jiē jiā miào  
+释纷利俗，并皆佳妙。
+
+máo shī shū zī，gōng pín yán xiào  
+毛施淑姿，工颦妍笑。
+
+nián shǐ měi cù，xī huī lǎng yào  
+年矢每促，羲晖朗曜。
+
+xuán jī xuán wò，huì pò huán zhào  
+璇玑悬斡，晦魄环照。
+
+zhǐ xīn xiū hù，yǒng suí jí shào  
+指薪修祜，永绥吉劭。
+
+jǔ bù yǐn lǐng，fǔ yǎng láng miào  
+矩步引领，俯仰廊庙。
+
+shù dài jīn zhuāng，pái huái zhān tiào  
+束带矜庄，徘徊瞻眺。
+
+gū lòu guǎ wén，yú méng děng qiào  
+孤陋寡闻，愚蒙等诮。
+
+wèi yǔ zhù zhě，yān zāi hū yě  
+谓语助者，焉哉乎也。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 

@@ -2,23 +2,48 @@
 
 > 从"学而优则仕"讲起：先论为官之德，再铺开一张人伦关系地图（夫妇、宗族、兄弟、朋友），最后收在个人操守——守真自有回报。
 
-## 原文（每句后附拼音，默念时先看拼音再过字）
+## 原文（拼音一行在上、原文一行在下，逐句对读）
 
-学优登仕，摄职从政。 *Xué yōu dēng shì, shè zhí cóng zhèng.*
-存以甘棠，去而益咏。 *Cún yǐ gān táng, qù ér yì yǒng.*
-乐殊贵贱，礼别尊卑。 *Yuè shū guì jiàn, lǐ bié zūn bēi.*
-上和下睦，夫唱妇随。 *Shàng hé xià mù, fū chàng fù suí.*
-外受傅训，入奉母仪。 *Wài shòu fù xùn, rù fèng mǔ yí.*
-诸姑伯叔，犹子比儿。 *Zhū gū bó shū, yóu zǐ bǐ ér.*
-孔怀兄弟，同气连枝。 *Kǒng huái xiōng dì, tóng qì lián zhī.*
-交友投分，切磨箴规。 *Jiāo yǒu tóu fèn, qiē mó zhēn guī.*
-仁慈隐恻，造次弗离。 *Rén cí yǐn cè, zào cì fú lí.*
-节义廉退，颠沛匪亏。 *Jié yì lián tuì, diān pèi fěi kuī.*
-性静情逸，心动神疲。 *Xìng jìng qíng yì, xīn dòng shén pí.*
-守真志满，逐物意移。 *Shǒu zhēn zhì mǎn, zhú wù yì yí.*
-坚持雅操，好爵自縻。 *Jiān chí yǎ cāo, hǎo jué zì mí.*
+xué yōu dēng shì，shè zhí cóng zhèng  
+学优登仕，摄职从政。
 
-注：拼音按本字读音标注，不标变调。
+cún yǐ gān táng，qù ér yì yǒng  
+存以甘棠，去而益咏。
+
+yuè shū guì jiàn，lǐ bié zūn bēi  
+乐殊贵贱，礼别尊卑。
+
+shàng hé xià mù，fū chàng fù suí  
+上和下睦，夫唱妇随。
+
+wài shòu fù xùn，rù fèng mǔ yí  
+外受傅训，入奉母仪。
+
+zhū gū bó shū，yóu zǐ bǐ ér  
+诸姑伯叔，犹子比儿。
+
+kǒng huái xiōng dì，tóng qì lián zhī  
+孔怀兄弟，同气连枝。
+
+jiāo yǒu tóu fèn，qiē mó zhēn guī  
+交友投分，切磨箴规。
+
+rén cí yǐn cè，zào cì fú lí  
+仁慈隐恻，造次弗离。
+
+jié yì lián tuì，diān pèi fěi kuī  
+节义廉退，颠沛匪亏。
+
+xìng jìng qíng yì，xīn dòng shén pí  
+性静情逸，心动神疲。
+
+shǒu zhēn zhì mǎn，zhú wù yì yí  
+守真志满，逐物意移。
+
+jiān chí yǎ cāo，hǎo jué zì mí  
+坚持雅操，好爵自縻。
+
+注：拼音按本字读音标注，不标变调；拼音行末的两个空格是 Markdown 换行符，不要删除。
 
 ## 白话串讲
 
